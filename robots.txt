@@ -1,1 +1,1 @@
-Sitemap: /macroecolab-website/sitemap.xml
+Sitemap: /macroecolab.github.io/sitemap.xml
