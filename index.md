@@ -1,17 +1,17 @@
 ---
 ---
 
-# macroecolab-tohoku's Website
+# Macroecology Lab @ Tohoku University
 
-An engaging 1-3 sentence description of your lab.
+
 
 {% include section.html %}
 
-## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We research the geographic patterns of biodiversity across a wide range of taxa at large spatial and temporal scales. We also make predictions of how biodiversity will change in the future under different human-induced stresses such as climate change.
+
 
 {%
   include button.html
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Published Papers"
   text=text
 %}
 
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Research Projects"
   flip=true
   style="bare"
   text=text

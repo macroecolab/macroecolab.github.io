@@ -1,155 +1,750 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.tree.2023.10.011
+  title: "Biodiversity modeling advances will improve predictions of nature\u2019\
+    s contributions to people"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Jamie M. Kass
+  - Keiichi Fukaya
+  - Wilfried Thuiller
+  - Akira S. Mori
+  publisher: Trends in Ecology &amp; Evolution
+  date: '2023-11-01'
+  link: https://doi.org/gtb9c2
+  orcid: 0000-0002-9432-895X
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
+  image: images/gr1_lrg.jpg
+  description: We describe the current state of predicting nature's contributions
+    to people (a.k.a., ecosystem servies) and its challenges, highlight potential
+    benefits of biodiversity modeling advances, and explain how these improved predictions
+    can help to meet goals of international frameworks for biodiversity conservation.
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
+  - ecosystem service
+  - biodiversity
+- id: doi:10.1098/rspb.2023.1185
+  title: Breakdown in seasonal dynamics of subtropical ant communities with land-cover
+    change
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  - Jamie M. Kass
+  - Masashi Yoshimura
+  - Masako Ogasawara
+  - Mayuko Suwabe
+  - Francisco Hita Garcia
+  - Georg Fischer
+  - Kenneth L. Dudley
+  - Ian Donohue
+  - Evan P. Economo
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2023-10-11'
+  link: https://doi.org/gtb9dz
+  orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1038/s41467-023-40936-0
+  title: Global determinants of insect mitochondrial genetic diversity
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Connor M. French
+  - Laura D. Bertola
+  - Ana C. Carnaval
+  - Evan P. Economo
+  - Jamie M. Kass
+  - David J. Lohman
+  - Katharine A. Marske
+  - Rudolf Meier
+  - Isaac Overcast
+  - Andrew J. Rominger
+  - Phillip P. A. Staniczenko
+  - Michael J. Hickerson
+  publisher: Nature Communications
+  date: '2023-08-29'
+  link: https://doi.org/gtb9d2
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-3222221/v1
+  title: Code sharing increases citations, but remains uncommon
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Brian Maitner
+  - Paul Santos-Andrade
+  - Luna Lei
+  - George Barbosa
+  - Brad Boyle
+  - Matiss Castorena
+  - Brian Enquist
+  - Xiao Feng
+  - Jamie Kass
+  - Hannah Owens
+  - Daniel Park
+  - Andrea Paz
+  - Gonzalo Pinilla-Buitrago
+  - Cory Merow
+  - Adam Wilson
+  publisher: Research Square Platform LLC
+  date: '2023-08-04'
+  link: https://doi.org/gtb9d3
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/een.13216
+  title: "Dynamic distribution modelling of the swamp tigertail dragonfly<i>Synthemis\
+    \ eustalacta</i>(Odonata: Anisoptera: Synthemistidae) over a 20\u2010year bushfire\
+    \ regime"
+  authors:
+  - Aaron M. Goodman
+  - Jamie M. Kass
+  - Jessica Ware
+  publisher: Ecological Entomology
+  date: '2022-12-10'
+  link: https://doi.org/gtb9d4
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jbi.14546
+  title: Geographic and climatic constraints on bioregionalization of European ants
+  authors:
+  - Runxi Wang
+  - Jamie M. Kass
+  - Christophe Galkowski
+  - Federico Garcia
+  - Matthew T. Hamer
+  - Alexander Radchenko
+  - Sebastian D. Salata
+  - Enrico Schifani
+  - Zalimkhan M. Yusupov
+  - Evan P. Economo
+  - "Benoit Gu\xE9nard"
+  publisher: Journal of Biogeography
+  date: '2022-12-27'
+  link: https://doi.org/gtb9d5
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ecog.06547
+  title: '<i>wallace</i> 2: a shiny app for modeling species niches and distributions
+    redesigned to facilitate expansion via module contributions'
+  authors:
+  - Jamie M. Kass
+  - "Gonzalo E. Pinilla\u2010Buitrago"
+  - Andrea Paz
+  - Bethany A. Johnson
+  - "Valentina Grisales\u2010Betancur"
+  - Sarah I. Meenan
+  - Dean Attali
+  - Olivier Broennimann
+  - Peter J. Galante
+  - Brian S. Maitner
+  - Hannah L. Owens
+  - Sara Varela
+  - "Matthew E. Aiello\u2010Lammens"
+  - Cory Merow
+  - Mary E. Blair
+  - Robert P. Anderson
+  publisher: Ecography
+  date: '2023-01-16'
+  link: https://doi.org/gtb9d6
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41559-023-02008-w
+  title: Better incentives are needed to reward academic software development
+  authors:
+  - Cory Merow
+  - Brad Boyle
+  - Brian J. Enquist
+  - Xiao Feng
+  - Jamie M. Kass
+  - Brian S. Maitner
+  - Brian McGill
+  - Hannah Owens
+  - Daniel S. Park
+  - Andrea Paz
+  - Gonzalo E. Pinilla-Buitrago
+  - Mark C. Urban
+  - Sara Varela
+  - Adam M. Wilson
+  publisher: Nature Ecology &amp; Evolution
+  date: '2023-02-27'
+  link: https://doi.org/gtb9d7
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.17.523860
+  title: Breakdown in seasonal dynamics of subtropical ant communities with land-cover
+    change
+  authors:
+  - Jamie M. Kass
+  - Masashi Yoshimura
+  - Masako Ogasawara
+  - Mayuko Suwabe
+  - Francisco Hita Garcia
+  - Georg Fischer
+  - Kenneth L. Dudley
+  - Ian Donohue
+  - Evan P. Economo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-20'
+  link: https://doi.org/gtb9d8
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/csp2.12863
+  title: '<scp>changeRangeR</scp>: An R package for reproducible biodiversity change
+    metrics from species distribution estimates'
+  authors:
+  - Peter J. Galante
+  - Samuel Chang Triguero
+  - Andrea Paz
+  - "Matthew Aiello\u2010Lammens"
+  - Beth E. Gerstner
+  - Bethany A. Johnson
+  - Jamie M. Kass
+  - Cory Merow
+  - "Elkin A. Noguera\u2010Urbano"
+  - "Gonzalo E. Pinilla\u2010Buitrago"
+  - Mary E. Blair
+  publisher: Conservation Science and Practice
+  date: '2022-12-19'
+  link: https://doi.org/gtb9fb
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.32942/OSF.IO/CKSPQ
+  title: Randomization analyses in niche and distribution modeling
+  authors:
+  - Dan Warren
+  - Jamie Kass
+  - Evan Economo
+  publisher: California Digital Library (CDL)
+  date: '2022-09-01'
+  link: https://doi.org/gtb9fc
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ecog.06295
+  title: "A large\u2010scale assessment of ant diversity across the Brazilian Amazon\
+    \ Basin: integrating geographic, ecological and morphological drivers of sampling\
+    \ bias"
+  authors:
+  - "Joudellys Andrade\u2010Silva"
+  - "Fabr\xEDcio B. Baccaro"
+  - "L\xEDvia P. Prado"
+  - "Benoit Gu\xE9nard"
+  - Dan L. Warren
+  - Jamie M. Kass
+  - Evan P. Economo
+  - "Rog\xE9rio R. Silva"
+  publisher: Ecography
+  date: '2022-06-16'
+  link: https://doi.org/gtb9fd
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.08.503252
+  title: Incorporating sampling bias into permutation tests for niche and distribution
+    models
+  authors:
+  - Dan L. Warren
+  - Jamie M. Kass
+  - Alexandre Casadei-Ferreira
+  - Evan P. Economo
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-11'
+  link: https://doi.org/gtb9ff
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.abp9908
+  title: The global distribution of known and undiscovered ant biodiversity
+  authors:
+  - Jamie M. Kass
+  - "Benoit Gu\xE9nard"
+  - Kenneth L. Dudley
+  - Clinton N. Jenkins
+  - Fumika Azuma
+  - Brian L. Fisher
+  - Catherine L. Parr
+  - Heloise Gibb
+  - John T. Longino
+  - Philip S. Ward
+  - Anne Chao
+  - David Lubertazzi
+  - Michael Weiser
+  - Walter Jetz
+  - Robert Guralnick
+  - "Rumsa\xEFs Blatrix"
+  - James Des Lauriers
+  - David A. Donoso
+  - Christos Georgiadis
+  - Kiko Gomez
+  - Peter G. Hawkes
+  - Robert A. Johnson
+  - John E. Lattke
+  - Joe A. MacGown
+  - William Mackay
+  - Simon Robson
+  - Nathan J. Sanders
+  - Robert R. Dunn
+  - Evan P. Economo
+  publisher: Science Advances
+  date: '2022-08-05'
+  link: https://doi.org/gqk4vf
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1440-1703.12294
+  title: 'Idea paper: Improving forecasts of community composition with lightweight
+    biodiversity monitoring across ecological and anthropogenic disturbance gradients'
+  authors:
+  - Jamie M. Kass
+  - Nao Takashina
+  - Nicholas R. Friedman
+  - Buntarou Kusumoto
+  - Mary E. Blair
+  publisher: Ecological Research
+  date: '2022-01-17'
+  link: https://doi.org/gtb9fh
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.16181
+  title: 'Linking ecological niche models and common garden experiments to predict
+    phenotypic differentiation in stressful environments: Assessing the adaptive value
+    of marginal populations in an alpine plant'
+  authors:
+  - "Javier Morente\u2010L\xF3pez"
+  - Jamie M. Kass
+  - "Carlos Lara\u2010Romero"
+  - "Josep M. Serra\u2010Diaz"
+  - "Jos\xE9 Carmen Soto\u2010Correa"
+  - Robert P. Anderson
+  - "Jos\xE9 M. Iriondo"
+  publisher: Global Change Biology
+  date: '2022-04-20'
+  link: https://doi.org/grt63v
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21425/f5fbg53589
+  title: Operationalizing expert knowledge in species' range estimates using diverse
+    data types
+  authors:
+  - Cory Merow
+  - Peter J. Galante
+  - Jamie M. Kass
+  - Matthew E. Aiello-Lammens
+  - Cecina Babich Morrow
+  - Beth E. Gerstner
+  - Valentina Grisales Betancur
+  - Alex C. Moore
+  - Elkin A. Noguera-Urbano
+  - Gonzalo E. Pinilla-Buitrago
+  - "Jorge Vel\xE1squez-Tibat\xE1"
+  - Robert P. Anderson
+  - Mary E. Blair
+  publisher: Frontiers of Biogeography
+  date: '2022-06-04'
+  link: https://doi.org/gpmjjs
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.03.10.483749
+  title: New distribution data and phylogenetic approach reveal bioregionalization
+    of the western Palearctic ants
+  authors:
+  - Runxi Wang
+  - Jamie M. Kass
+  - Christophe Galkowski
+  - Federico Garcia
+  - Matthew T. Hamer
+  - Alexander Radchenko
+  - Sebastian Salata
+  - Enrico Schifani
+  - Zalimkhan M. Yusupov
+  - Evan P. Economo
+  - "Benoit Gu\xE9nard"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-03-12'
+  link: https://doi.org/gprb83
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: uri:https://journals.ku.edu/jbi/article/view/15016
+  title: 'ENM2020: A Free Online Course and Set of Resources on Modeling Species''
+    Niches and Distributions'
+  publisher: Biodiversity Informatics
+  date: '2022-06-02'
+  link: https://journals.ku.edu/jbi/article/view/15016
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.09.479762
+  title: Global determinants of insect mitochondrial genetic diversity
+  authors:
+  - Connor M French
+  - Laura D Bertola
+  - Ana C Carnaval
+  - Evan P Economo
+  - Jamie M Kass
+  - David J Lohman
+  - Katharine A Marske
+  - Rudolf Meier
+  - Isaac Overcast
+  - Andrew J. Rominger
+  - Phillip Staniczenko
+  - Michael J Hickerson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-10'
+  link: https://doi.org/gtb9fm
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.13628
+  title: "ENMeval 2.0: Redesigned for customizable and reproducible modeling of species\u2019\
+    \ niches and distributions"
+  authors:
+  - Jamie M. Kass
+  - Robert Muscarella
+  - Peter J. Galante
+  - Corentin L. Bohl
+  - "Gonzalo E. Pinilla\u2010Buitrago"
+  - Robert A. Boria
+  - "Mariano Soley\u2010Guardia"
+  - Robert P. Anderson
+  publisher: Methods in Ecology and Evolution
+  date: '2021-06-04'
+  link: https://doi.org/gj2t76
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.15996
+  title: Intraspecific genetic variation matters when predicting seagrass distribution
+    under climate change
+  authors:
+  - "Zi\u2010Min Hu"
+  - "Quan\u2010Sheng Zhang"
+  - Jie Zhang
+  - Jamie M. Kass
+  - Stefano Mammola
+  - Pablo Fresia
+  - Stefano G. A. Draisma
+  - Jorge Assis
+  - Alexander Jueterbock
+  - Masashi Yokota
+  - Zhixin Zhang
+  publisher: Molecular Ecology
+  date: '2021-06-08'
+  link: https://doi.org/gj5ntd
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ecog.05618
+  title: 'occCite: Tools for querying and managing large biodiversity occurrence datasets'
+  authors:
+  - Hannah L. Owens
+  - Cory Merow
+  - Brian S. Maitner
+  - Jamie M. Kass
+  - Vijay Barve
+  - Robert P. Guralnick
+  publisher: Ecography
+  date: '2021-06-21'
+  link: https://doi.org/gkzp62
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gecco.2021.e01569
+  title: Temporal matching of occurrence localities and forest cover data helps improve
+    range estimates and predict climate change vulnerabilities
+  authors:
+  - Maria Gavrutenko
+  - Beth E. Gerstner
+  - Jamie M. Kass
+  - Steven M. Goodman
+  - Robert P. Anderson
+  publisher: Global Ecology and Conservation
+  date: '2021-06-01'
+  link: https://doi.org/gtb9fn
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ddi.13263
+  title: Front Cover
+  authors:
+  - Zhixin Zhang
+  - Jamie M. Kass
+  - Stefano Mammola
+  - Itsuro Koizumi
+  - Xuecao Li
+  - Kazunori Tanaka
+  - Kousuke Ikeda
+  - Toru Suzuki
+  - Masashi Yokota
+  - Nisikawa Usio
+  publisher: Diversity and Distributions
+  date: '2021-03-13'
+  link: https://doi.org/gjf673
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ddi.13225
+  title: "Lineage\u2010level distribution models lead to more realistic climate change\
+    \ predictions for a threatened crayfish"
+  authors:
+  - Zhixin Zhang
+  - Jamie M. Kass
+  - Stefano Mammola
+  - Itsuro Koizumi
+  - Xuecao Li
+  - Kazunori Tanaka
+  - Kousuke Ikeda
+  - Toru Suzuki
+  - Masashi Yokota
+  - Nisikawa Usio
+  publisher: Diversity and Distributions
+  date: '2021-01-21'
+  link: https://doi.org/gtb9fq
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ecog.05360
+  title: "Explainable artificial intelligence enhances the ecological interpretability\
+    \ of black\u2010box species distribution models"
+  authors:
+  - Masahiro Ryo
+  - Boyan Angelov
+  - Stefano Mammola
+  - Jamie M. Kass
+  - Blas M. Benito
+  - Florian Hartig
+  publisher: Ecography
+  date: '2020-11-17'
+  link: https://doi.org/ghk8dj
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/bes2.1813
+  title: Improving Area of Occupancy Estimates for Parapatric Species Using Distribution
+    Models and Support Vector Machines
+  authors:
+  - Jamie M. Kass
+  - Sarah I. Meenan
+  - "Nicol\xE1s Tinoco"
+  - Santiago F. Burneo
+  - Robert P. Anderson
+  publisher: The Bulletin of the Ecological Society of America
+  date: '2021-01-01'
+  link: https://doi.org/gtb9fr
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/eap.2228
+  title: Improving area of occupancy estimates for parapatric species using distribution
+    models and support vector machines
+  authors:
+  - Jamie M. Kass
+  - Sarah I. Meenan
+  - "Nicol\xE1s Tinoco"
+  - Santiago F. Burneo
+  - Robert P. Anderson
+  publisher: Ecological Applications
+  date: '2020-11-04'
+  link: https://doi.org/gtb9ft
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10530-020-02254-0
+  title: Co-occurrence of invasive and native carnivorans affects occupancy patterns
+    across environmental gradients
+  authors:
+  - Jamie M. Kass
+  - Morgan W. Tingley
+  - Tatsuyuki Tetsuya
+  - Fumito Koike
+  publisher: Biological Invasions
+  date: '2020-04-16'
+  link: https://doi.org/gkf5n9
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ecog.04886
+  title: Biotic predictors with phenological information improve range estimates for
+    migrating monarch butterflies in Mexico
+  authors:
+  - Jamie M. Kass
+  - Robert P. Anderson
+  - "Alejandro Espinosa\u2010Lucas"
+  - "Ver\xF3nica Ju\xE1rez\u2010Jaimes"
+  - "Esteban Mart\xEDnez\u2010Salas"
+  - Francisco Botello
+  - Gloria Tavera
+  - "Jos\xE9 Juan Flores\u2010Mart\xEDnez"
+  - "V\xEDctor S\xE1nchez\u2010Cordero"
+  publisher: Ecography
+  date: '2019-12-01'
+  link: https://doi.org/gtb9fv
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.18.954867
+  title: Ecological niche models as hypothesis generators of functional genetic differentiation
+    and potential local adaptation in a Mediterranean alpine ecosystem
+  authors:
+  - "Javier Morente-L\xF3pez"
+  - Jamie M. Kass
+  - Carlos Lara-Romero
+  - "Josep Mar\xEDa Serra-Diaz"
+  - "Jos\xE9 Carmen Soto-Correa"
+  - Robert P. Anderson
+  - "Jos\xE9 Mar\xEDa Iriondo"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-20'
+  link: https://doi.org/gk2386
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/geb.12993
+  title: 'Species'' range model metadata standards: RMMS'
+  authors:
+  - Cory Merow
+  - Brian S. Maitner
+  - Hannah L. Owens
+  - Jamie M. Kass
+  - Brian J. Enquist
+  - Walter Jetz
+  - Rob Guralnick
+  publisher: Global Ecology and Biogeography
+  date: '2019-08-28'
+  link: https://doi.org/gtb9f2
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jbi.13573
+  title: A new null model approach to quantify performance and significance for ecological
+    niche models of species distributions
+  authors:
+  - Corentin L. Bohl
+  - Jamie M. Kass
+  - Robert P. Anderson
+  publisher: Journal of Biogeography
+  date: '2019-05-11'
+  link: https://doi.org/gtb9f8
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41437-018-0135-5
+  title: Disentangling the genetic effects of refugial isolation and range expansion
+    in a trans-continentally distributed species
+  authors:
+  - B. N. Reid
+  - J. M. Kass
+  - S. Wollney
+  - E. L. Jensen
+  - M. A. Russello
+  - E. M. Viola
+  - J. Pantophlet
+  - J. B. Iverson
+  - M. Z. Peery
+  - C. J. Raxworthy
+  - E. Naro-Maciel
+  publisher: Heredity
+  date: '2018-08-31'
+  link: https://doi.org/gn54nk
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.12945
+  title: '<scp>Wallace</scp>: A flexible platform for reproducible modeling of species
+    niches and distributions built for community expansion'
+  authors:
+  - Jamie M. Kass
+  - Bruno Vilela
+  - "Matthew E. Aiello\u2010Lammens"
+  - Robert Muscarella
+  - Cory Merow
+  - Robert P. Anderson
+  publisher: Methods in Ecology and Evolution
+  date: '2018-01-17'
+  link: https://doi.org/gc5vhr
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jmammal/gyy012
+  title: Revised distributional estimates for the recently discovered olinguito (Bassaricyon
+    neblina), with comments on natural and taxonomic history
+  authors:
+  - Beth E Gerstner
+  - Jamie M Kass
+  - Roland Kays
+  - Kristofer M Helgen
+  - Robert P Anderson
+  publisher: Journal of Mammalogy
+  date: '2018-04-03'
+  link: https://doi.org/gdck5n
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.13992
+  title: "Toward ecologically realistic predictions of species distributions: A cross\u2010\
+    time example from tropical montane cloud forests"
+  authors:
+  - "L\xE1zaro Guevara"
+  - Beth E. Gerstner
+  - Jamie M. Kass
+  - Robert P. Anderson
+  publisher: Global Change Biology
+  date: '2017-12-12'
+  link: https://doi.org/gn492v
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210X.12261
+  title: '<scp>ENM</scp>eval: An R package for conducting spatially independent evaluations
+    and estimating optimal model complexity for <scp>Maxent</scp> ecological niche
+    models'
+  authors:
+  - Robert Muscarella
+  - Peter J. Galante
+  - "Mariano Soley\u2010Guardia"
+  - Robert A. Boria
+  - Jamie M. Kass
+  - "Mar\xEDa Uriarte"
+  - Robert P. Anderson
+  publisher: Methods in Ecology and Evolution
+  date: '2014-09-25'
+  link: https://doi.org/f6r3v9
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.envint.2014.01.008
+  title: Polychlorinated biphenyls in the exterior caulk of San Francisco Bay Area
+    buildings, California, USA
+  authors:
+  - Susan Klosterhaus
+  - Lester J. McKee
+  - Donald Yee
+  - Jamie M. Kass
+  - Adam Wong
+  publisher: Environment International
+  date: '2014-05-01'
+  link: https://doi.org/f52r6s
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3375/043.032.0108
+  title: Climate Change Refugia for Biodiversity in the Klamath-Siskiyou Ecoregion
+  authors:
+  - David Olson
+  - Dominick A. DellaSala
+  - Reed F. Noss
+  - James R. Strittholt
+  - Jamie Kass
+  - Marni E. Koopman
+  - Thomas F. Allnutt
+  publisher: Natural Areas Journal
+  date: '2012-01-01'
+  link: https://doi.org/gtb9gd
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml

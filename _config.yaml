@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: macroecolab-tohoku
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Macroecology Lab
+subtitle: at Tohoku University
+description: We use statistical models and geospatial techniques to predict  species' ranges and their relationships with the environment, make estimates of biodiversity and map its patterns, and predict how biodiversity will change in the future.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@macroecolab-tohoku.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: kass@tohoku.ac.jp
+  orcid: 0000-0002-9432-895X
+  google-scholar: LM_UNdkAAAAJ
   github: macroecolab-tohoku
-  twitter: macroecolab-tohoku
-  youtube: macroecolab-tohoku
+  twitter: 
+  youtube: 
 
 ### jekyll settings
 
