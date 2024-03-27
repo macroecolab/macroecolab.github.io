@@ -4,11 +4,15 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Associate Professor, Principal Investigator
 
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
+  
+asstprof:
+  icon: fa-solid fa-glasses
+  description: Assistant Professor
 
 phd:
   icon: fa-solid fa-graduation-cap

@@ -1,7 +1,7 @@
 ---
-name: John Doe
-image: images/photo.jpg
-role: phd
+name: Everton Miranda
+image: images/miranda.jpg
+role: asstprof
 group: alum
 links:
   github: john-doe
