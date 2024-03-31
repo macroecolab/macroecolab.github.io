@@ -1,40 +1,11 @@
 ---
 ---
 
-# Macroecology Lab @ Tohoku University
-
-
-
 {% include section.html %}
 
-
 {% capture text %}
 
-We research the geographic patterns of biodiversity across a wide range of taxa at large spatial and temporal scales. We also make predictions of how biodiversity will change in the future under different human-induced stresses such as climate change.
-
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Published Papers"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate how biodiversity is distributed across the Earth and make predictions of how it will change in the future.
 
 {%
   include button.html
@@ -59,7 +30,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Check out our publications to see what we have been working on.
+
+
+{%
+  include button.html
+  link="research"
+  text="See our publications"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Published Papers"
+  text=text
+%}
+
+
+{% capture text %}
+
+We are a diverse team that is passionate about modeling, mapping, and monitoring.
 
 {%
   include button.html
