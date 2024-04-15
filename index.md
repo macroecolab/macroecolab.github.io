@@ -30,7 +30,7 @@ We investigate how biodiversity is distributed across the Earth and make predict
 
 {% capture text %}
 
-Check out our publications to see what we have been working on.
+Check out our published papers to see what we have been working on.
 
 
 {%
@@ -46,9 +46,9 @@ Check out our publications to see what we have been working on.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/rspb2023.jpg"
   link="research"
-  title="Published Papers"
+  title="Publications"
   text=text
 %}
 
