@@ -1,7 +1,11 @@
 - id: doi:10.1016/j.tree.2023.10.011
   type: paper
-  image: images/gr1_lrg.jpg
-  description: We describe the current state of predicting nature's contributions to people (a.k.a., ecosystem servies) and its challenges, highlight potential benefits of biodiversity modeling advances, and explain how these improved predictions can help to meet goals of international frameworks for biodiversity conservation.
+  image: images/tree2024.jpg
+  description: We describe the current state of predicting nature’s contributions to people (a.k.a., ecosystem services) and its challenges, highlight potential benefits of biodiversity modeling advances, and explain how these improved predictions can help to meet goals of international frameworks for biodiversity conservation.
   tags:
     - ecosystem service
     - biodiversity
+- id: doi:10.1098/rspb.2023.1185
+  type: paper
+  image: images/rspb2023.jpg
+  description: We did something

@@ -3,7 +3,7 @@
 
 $logo-big: 200px;
 $logo: 100px;
-$big-padding: 100px;
+$big-padding: 20px;
 $collapse: 700px;
 $sticky: true;
 
@@ -60,12 +60,13 @@ header a {
 // main title
 .title > *:first-child {
   font-size: var(--large);
+  font-weight: var(--semi-bold);
 }
 
 // subtitle
 .title > *:last-child {
   opacity: 0.65;
-  font-weight: var(--thin);
+  font-weight: var(--semi-bold);
 }
 
 .nav-toggle {
@@ -101,7 +102,7 @@ nav {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 30px;
   font-family: var(--heading);
   text-transform: uppercase;
 }

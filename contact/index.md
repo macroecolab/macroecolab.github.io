@@ -46,7 +46,7 @@ If you have a question about our work or would like to visit our lab, please sen
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
+{% include section.html dark=false %}
 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  

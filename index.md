@@ -20,7 +20,7 @@ We investigate how biodiversity is distributed across the Earth and make predict
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="projects"
   title="Research Projects"
   flip=true

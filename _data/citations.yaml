@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.04.12.589151
+  title: 'Environmental rather than spatial factors determine trait-based community
+    structure: a case study with zooplankton'
+  authors:
+  - Hiromichi Suzuki
+  - Hidetaka Ichiyanagi
+  - Jamie M. Kass
+  - Jotaro Urabe
+  publisher: bioRxiv
+  date: '2024-04-15'
+  link: https://doi.org/gtq37w
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.tree.2023.10.011
   title: "Biodiversity modeling advances will improve predictions of nature\u2019\
     s contributions to people"
@@ -9,17 +23,17 @@
   - Wilfried Thuiller
   - Akira S. Mori
   publisher: Trends in Ecology &amp; Evolution
-  date: '2023-11-01'
+  date: '2024-04-01'
   link: https://doi.org/gtb9c2
   orcid: 0000-0002-9432-895X
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: images/gr1_lrg.jpg
-  description: We describe the current state of predicting nature's contributions
-    to people (a.k.a., ecosystem servies) and its challenges, highlight potential
-    benefits of biodiversity modeling advances, and explain how these improved predictions
-    can help to meet goals of international frameworks for biodiversity conservation.
+  image: images/tree2024.jpg
+  description: "We describe the current state of predicting nature\u2019s contributions\
+    \ to people (a.k.a., ecosystem services) and its challenges, highlight potential\
+    \ benefits of biodiversity modeling advances, and explain how these improved predictions\
+    \ can help to meet goals of international frameworks for biodiversity conservation."
   tags:
   - ecosystem service
   - biodiversity
@@ -40,8 +54,11 @@
   date: '2023-10-11'
   link: https://doi.org/gtb9dz
   orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  image: images/rspb2023.jpg
+  description: We did something
 - id: doi:10.1038/s41467-023-40936-0
   title: Global determinants of insect mitochondrial genetic diversity
   authors:

@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: William Petty
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: JYPE exchange student
+role: exchange
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
