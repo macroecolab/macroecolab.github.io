@@ -34,7 +34,16 @@ If you have a question about our work or would like to visit our lab, please sen
 
 {% endcapture %}
 
+
 {% include cols.html col1=col1 %}
+
+〒980-0845 　
+
+Macroecology Lab, Tohoku University Aobayama Campus Biology Building 4F, Aramakiaza Aoba 6-3, Aoba, Sendai, Miyagi
+
+宮城県仙台市青葉区荒巻青葉６−３　東北大学青葉山キャンパス理学部生物棟４F　マクロ生態学研究室
+
+{% include float.html clear=true %}
 
 {% include section.html dark=false %}
 

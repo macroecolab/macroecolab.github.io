@@ -3,9 +3,21 @@
 
 {% include section.html %}
 
-{% capture text %}
+# about us
 
-We investigate how biodiversity is distributed across the Earth and make predictions of how it will change in the future.
+We use statistical models and geospatial techniques to predict species's
+ranges and their relationships with the environment, make estimates of
+biodiversity and map its patterns, and predict how biodiversity will
+change in the future.
+
+{% include section.html
+background="images/forest.png"
+size=full dark=false %}
+
+{%capture text%}
+
+#### We investigate how biodiversity is distributed across the Earth and make predictions of how it will change in the future.
+
 
 {%
   include button.html
@@ -30,15 +42,15 @@ We investigate how biodiversity is distributed across the Earth and make predict
 
 {% capture text %}
 
-Check out our published papers to see what we have been working on.
+#### Check out our published papers to see what we have been working on.
 
 
 {%
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
+  icon="fa-solid fa-arrow-left"
+  flip=false
   style="bare"
 %}
 
@@ -55,7 +67,7 @@ Check out our published papers to see what we have been working on.
 
 {% capture text %}
 
-We are a diverse team that is passionate about modeling, mapping, and monitoring.
+#### We are a diverse team that is passionate about modeling, mapping, and monitoring.
 
 {%
   include button.html
@@ -73,5 +85,13 @@ We are a diverse team that is passionate about modeling, mapping, and monitoring
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true
   text=text
 %}
+
+{% include section.html background="images/some-bg-image.jpg" dark=false
+size=full %}
+
+# [NEWS](blog)
+
+{% include list.html data="posts" component="post-excerpt" %}
