@@ -18,7 +18,7 @@ The Macroecology Lab is an international environment with members from around th
 
 
 
-{% include section.html background="images/background.jpg" dark=false %}
+
 
 
 

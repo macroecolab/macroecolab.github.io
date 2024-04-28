@@ -10,9 +10,7 @@ ranges and their relationships with the environment, make estimates of
 biodiversity and map its patterns, and predict how biodiversity will
 change in the future.
 
-{% include section.html
-background="images/forest.png"
-size=full dark=false %}
+{% include section.html%}
 
 {%capture text%}
 
