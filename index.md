@@ -3,16 +3,13 @@
 
 {% include section.html %}
 
-We use statistical models and geospatial techniques to predict species's
-ranges and their relationships with the environment, make estimates of
-biodiversity and map its patterns, and predict how biodiversity will
-change in the future.
+#### At the **Macroecology Lab** at Tohoku University, we conduct research on how biodiversity is distributed across the Earth and predict how it will change in the future.
 
 {% include section.html%}
 
 {%capture text%}
 
-#### We conduct **research** on how biodiversity is distributed across the Earth and predict how it will change in the future.
+#### Our research **projects** focus on themes in biogeography, ecological modeling, conservation, and ecosystem services.
 
 
 {%
@@ -28,7 +25,7 @@ change in the future.
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/tree_ecosys.png"
   link="projects"
   flip=true
   style="bare"
@@ -53,7 +50,7 @@ change in the future.
 
 {%
   include feature.html
-  image="images/rspb2023.jpg"
+  image="images/research.jpg"
   link="research"
   text=text
 %}
