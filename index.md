@@ -73,7 +73,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/hanami.jpg"
   link="team"
   flip=true
   text=text
