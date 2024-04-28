@@ -1,7 +1,7 @@
 ---
 name: Taro Takane
 image: images/.jpg
-role: grad
+role: masters
 aliases:
   - J. Smith
   - J Smith

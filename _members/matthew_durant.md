@@ -1,7 +1,7 @@
 ---
-name: Matthew
+name: Matthew Durant
 image: images/.jpg
-role: grad
+role: masters
 aliases:
   - J. Smith
   - J Smith

@@ -3,8 +3,6 @@
 
 {% include section.html %}
 
-# about us
-
 We use statistical models and geospatial techniques to predict species's
 ranges and their relationships with the environment, make estimates of
 biodiversity and map its patterns, and predict how biodiversity will
@@ -14,13 +12,13 @@ change in the future.
 
 {%capture text%}
 
-#### We investigate how biodiversity is distributed across the Earth and make predictions of how it will change in the future.
+#### We conduct **research** on how biodiversity is distributed across the Earth and predict how it will change in the future.
 
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -32,7 +30,6 @@ change in the future.
   include feature.html
   image="images/research.jpg"
   link="projects"
-  title="Research Projects"
   flip=true
   style="bare"
   text=text
@@ -40,13 +37,13 @@ change in the future.
 
 {% capture text %}
 
-#### Check out our published papers to see what we have been working on.
+#### Check out our **publications** to see what we are working on.
 
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-left"
   flip=false
   style="bare"
@@ -58,14 +55,13 @@ change in the future.
   include feature.html
   image="images/rspb2023.jpg"
   link="research"
-  title="Publications"
   text=text
 %}
 
 
 {% capture text %}
 
-#### We are a diverse team that is passionate about modeling, mapping, and monitoring.
+#### We are a diverse **team** passionate about ecological modeling, mapping, and biodiversity monitoring.
 
 {%
   include button.html
@@ -82,7 +78,6 @@ change in the future.
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
   flip=true
   text=text
 %}

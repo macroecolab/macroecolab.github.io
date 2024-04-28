@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you have a question about our work or would like to visit our lab, please send me an email.
+#### If you have a question about our work, want to collaborate, or would like to visit our lab, please send us an email.
 
 {%
   include button.html

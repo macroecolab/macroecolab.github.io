@@ -1,7 +1,7 @@
 ---
-name: Low Megan Mei Yan
+name: Megan Mei Yan Low
 image: images/.jpg
-role: grad
+role: masters
 aliases:
   - J. Smith
   - J Smith

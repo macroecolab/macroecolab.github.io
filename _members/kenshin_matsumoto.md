@@ -12,4 +12,4 @@ Japanese 4th year student
 
 I am interested in the interaction between human and wildlife!
 
-My reserch is about Japanese serow (antelope goat)
+My research is about Japanese serow (antelope goat)
