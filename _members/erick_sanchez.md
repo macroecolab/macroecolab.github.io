@@ -1,11 +1,9 @@
 ---
 name: Erick Sanchez
-image: images/photo.jpg
+image: images/erick.jpg
 description: JYPE exchange student
 role: exchange
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+My name is Erick Sanchez, a 3rd year Molecular and Cell Biology undergraduate major at University of California, San Diego. I am in the JYPE program here at Tohoku University where I will be creating a species distribution model on bees.

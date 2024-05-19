@@ -1,11 +1,9 @@
 ---
 name: Anson Choi
-image: images/photo.jpg
+image: images/anson.jpg
 description: JYPE exchange student
 role: exchange
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+As a fourth-year student at UC San Diego, majoring in Cognitive Science with a specialization in Design and Interaction, I bring a passion for understanding human behavior and improving user experiences to our research team. My goal is to provide a unique perspective that contributes to our collective efforts.

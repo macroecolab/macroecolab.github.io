@@ -59,6 +59,22 @@
   type: paper
   image: images/rspb2023.jpg
   description: We did something
+- id: doi:10.1111/acv.12907
+  title: 'Genomic and environmental insights and conservation challenges for two hybridizing
+    iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>'
+  authors:
+  - "M. Su\xE1rez\u2010Atilano"
+  - "G. Pacheco\u2010Sierra"
+  - "E. V\xE1zquez\u2010Dom\xEDnguez"
+  - J. M. Kass
+  - A. Paz
+  - "J. P\xE9rez\u2010Alquicira"
+  publisher: Animal Conservation
+  date: '2023-09-19'
+  link: https://doi.org/gttb7c
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-023-40936-0
   title: Global determinants of insect mitochondrial genetic diversity
   authors:
@@ -187,25 +203,6 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.17.523860
-  title: Breakdown in seasonal dynamics of subtropical ant communities with land-cover
-    change
-  authors:
-  - Jamie M. Kass
-  - Masashi Yoshimura
-  - Masako Ogasawara
-  - Mayuko Suwabe
-  - Francisco Hita Garcia
-  - Georg Fischer
-  - Kenneth L. Dudley
-  - Ian Donohue
-  - Evan P. Economo
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-20'
-  link: https://doi.org/gtb9d8
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/csp2.12863
   title: '<scp>changeRangeR</scp>: An R package for reproducible biodiversity change
     metrics from species distribution estimates'
@@ -325,21 +322,20 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/gcb.16181
-  title: 'Linking ecological niche models and common garden experiments to predict
-    phenotypic differentiation in stressful environments: Assessing the adaptive value
-    of marginal populations in an alpine plant'
+- id: doi:10.1101/2020.02.18.954867
+  title: Ecological niche models as hypothesis generators of functional genetic differentiation
+    and potential local adaptation in a Mediterranean alpine ecosystem
   authors:
-  - "Javier Morente\u2010L\xF3pez"
+  - "Javier Morente-L\xF3pez"
   - Jamie M. Kass
-  - "Carlos Lara\u2010Romero"
-  - "Josep M. Serra\u2010Diaz"
-  - "Jos\xE9 Carmen Soto\u2010Correa"
+  - Carlos Lara-Romero
+  - "Josep Mar\xEDa Serra-Diaz"
+  - "Jos\xE9 Carmen Soto-Correa"
   - Robert P. Anderson
-  - "Jos\xE9 M. Iriondo"
-  publisher: Global Change Biology
-  date: '2022-04-20'
-  link: https://doi.org/grt63v
+  - "Jos\xE9 Mar\xEDa Iriondo"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-20'
+  link: https://doi.org/gk2386
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
@@ -366,54 +362,12 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.03.10.483749
-  title: New distribution data and phylogenetic approach reveal bioregionalization
-    of the western Palearctic ants
-  authors:
-  - Runxi Wang
-  - Jamie M. Kass
-  - Christophe Galkowski
-  - Federico Garcia
-  - Matthew T. Hamer
-  - Alexander Radchenko
-  - Sebastian Salata
-  - Enrico Schifani
-  - Zalimkhan M. Yusupov
-  - Evan P. Economo
-  - "Benoit Gu\xE9nard"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-03-12'
-  link: https://doi.org/gprb83
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: uri:https://journals.ku.edu/jbi/article/view/15016
   title: 'ENM2020: A Free Online Course and Set of Resources on Modeling Species''
     Niches and Distributions'
   publisher: Biodiversity Informatics
   date: '2022-06-02'
   link: https://journals.ku.edu/jbi/article/view/15016
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.09.479762
-  title: Global determinants of insect mitochondrial genetic diversity
-  authors:
-  - Connor M French
-  - Laura D Bertola
-  - Ana C Carnaval
-  - Evan P Economo
-  - Jamie M Kass
-  - David J Lohman
-  - Katharine A Marske
-  - Rudolf Meier
-  - Isaac Overcast
-  - Andrew J. Rominger
-  - Phillip Staniczenko
-  - Michael J Hickerson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-10'
-  link: https://doi.org/gtb9fm
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
@@ -486,25 +440,6 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/ddi.13263
-  title: Front Cover
-  authors:
-  - Zhixin Zhang
-  - Jamie M. Kass
-  - Stefano Mammola
-  - Itsuro Koizumi
-  - Xuecao Li
-  - Kazunori Tanaka
-  - Kousuke Ikeda
-  - Toru Suzuki
-  - Masashi Yokota
-  - Nisikawa Usio
-  publisher: Diversity and Distributions
-  date: '2021-03-13'
-  link: https://doi.org/gjf673
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1111/ddi.13225
   title: "Lineage\u2010level distribution models lead to more realistic climate change\
     \ predictions for a threatened crayfish"
@@ -556,21 +491,6 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/eap.2228
-  title: Improving area of occupancy estimates for parapatric species using distribution
-    models and support vector machines
-  authors:
-  - Jamie M. Kass
-  - Sarah I. Meenan
-  - "Nicol\xE1s Tinoco"
-  - Santiago F. Burneo
-  - Robert P. Anderson
-  publisher: Ecological Applications
-  date: '2020-11-04'
-  link: https://doi.org/gtb9ft
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s10530-020-02254-0
   title: Co-occurrence of invasive and native carnivorans affects occupancy patterns
     across environmental gradients
@@ -601,23 +521,6 @@
   publisher: Ecography
   date: '2019-12-01'
   link: https://doi.org/gtb9fv
-  orcid: 0000-0002-9432-895X
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.02.18.954867
-  title: Ecological niche models as hypothesis generators of functional genetic differentiation
-    and potential local adaptation in a Mediterranean alpine ecosystem
-  authors:
-  - "Javier Morente-L\xF3pez"
-  - Jamie M. Kass
-  - Carlos Lara-Romero
-  - "Josep Mar\xEDa Serra-Diaz"
-  - "Jos\xE9 Carmen Soto-Correa"
-  - Robert P. Anderson
-  - "Jos\xE9 Mar\xEDa Iriondo"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-02-20'
-  link: https://doi.org/gk2386
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml

@@ -1,11 +1,9 @@
 ---
 name: William Petty
-image: images/photo.jpg
+image: images/william.jpg
 description: JYPE exchange student
 role: exchange
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hello! I am a third year Biology Major from Baylor University in Waco, TX, USA. As part of Tohoku’s JYPE program, I am currently working in the lab constructing models over the distribution of the western diamondback rattlesnake with a specific focus on the impact of microclimatic data.
