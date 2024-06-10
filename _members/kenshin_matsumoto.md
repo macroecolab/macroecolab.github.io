@@ -8,8 +8,4 @@ aliases:
 
 ---
 
-Japanese 4th year student
-
-I am interested in the interaction between human and wildlife!
-
-My research is about Japanese serow (antelope goat)
+I am a 4th year biology student at Tohoku University interested in interactions between humans and wildlife. Currently, I am researching the how the distribution of Japanese serow (antelope goat) is affected by deer and how it may change in the future.

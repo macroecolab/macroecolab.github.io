@@ -8,6 +8,4 @@ aliases:
 
 ---
 
-My name is Takumi Yamaguchi.
-I'm a 4th grade undergraduate students.
-I'm doing research about Japanese eels by using "Species distribution model".
+I am a 4th year biology student at Tohoku University interested in fish ecology and conservation. In my research, I am modeling the distribution of the Japanese eel and the influence of human impacts.
