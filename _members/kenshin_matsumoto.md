@@ -8,8 +8,8 @@ aliases:
 
 ---
 
-Japanese 4th year student
-
-I am interested in the interaction between human and wildlife!
-
-My research is about Japanese serow (antelope goat)
+Hi, I'm Kenshin Matsumoto. I'm from Gunma Prefecture in eastern Japan.
+I'm a 4th year biology student interested in interactions 
+between humans and wildlife. Currently, I am researching how the 
+distribution of Japanese serow (antelope goat) is affected by deer and how it 
+may shift in the future with climate change.

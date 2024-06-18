@@ -8,5 +8,5 @@ aliases:
 
 ---
 
-I am a master's student and I am interested in ant biology.
-I am from Osaka, Japan. Best regards.
+Hi, I'm Ryo Nishida. I'm a 1st year master's student in the Macroecology Lab. 
+I'm originally from Osaka. I'm interested in ant biology.

@@ -7,6 +7,7 @@ aliases:
   - J Smith
 
 ---
-Hello. I'm So Kaneko.
 
-I want to investigate the impact of invasive species, especially small mouth basses and relationship between invasive species and native ones by  using Speceis Destruction Model.
+Hi, I'm Sou Kaneko. I'm from Aichi Prefecture in central Japan. 
+I'm a 4th year biology student interested in the impact of invasive freshwater species, particularly how smallmouth bass presence affects native species. 
+I will be investigating this using species distribution models.

@@ -9,4 +9,4 @@ links:
   home-page: https://tohokuecology.jp/aquatic/
 ---
 
-専門　Aquatic Ecology, Plankton biology, Limnology
+Hi, I'm Jotaro Urabe. My research interests include aquatic ecology, plankton biology, and limnology.

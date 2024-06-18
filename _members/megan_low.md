@@ -9,6 +9,8 @@ links:
   email: megan.low.mei.yan.q8@dc.tohoku.ac.jp
 ---
 
-studying Plant-pollinator biodiversity and ecosystem services
+Hi, I am Low Megan Mei Yan, a 1st year master's student in the Macroecology Lab. 
+I am interested in bird and butterfly watching and wildlife photography. 
+I am researching ways to predict and map pollinator diversity and pollination
+service potential. 
 
-Hi I am Megan. I like many animals like butterflies, birds, canines and cetaceans. During my free time I enjoy taking pictures of wild animals.

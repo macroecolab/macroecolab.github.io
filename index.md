@@ -79,7 +79,7 @@
   text=text
 %}
 
-{% include section.html background="images/some-bg-image.jpg" dark=false
+{% include section.html background="images/background2.jpg" dark=false
 size=full %}
 
 # [NEWS](blog)

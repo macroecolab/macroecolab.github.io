@@ -2,13 +2,10 @@
 name: Matthew Durant
 image: images/matthew.png
 role: masters
-aliases:
-  - J. Smith
-  - J Smith
 
 ---
 
-I am a Masters student in macroecology. Originally from Nova 
+Hi, I'm Matthew Durant. I am a 1st year master's student in the Macroecology Lab. Originally from Nova 
 Scotia, Canada, I graduated from Dalhousie University with a B.S. Honours 
 in Marine Biology and minors in ocean science and statistics. During my 
 undergraduate degree, I worked on research focused on fisheries 
