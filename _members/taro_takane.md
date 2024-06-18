@@ -1,6 +1,6 @@
 ---
 name: Taro Takane
-image: images/tarotakene.jpg
+image: images/takane.jpg
 role: masters
 
 ---

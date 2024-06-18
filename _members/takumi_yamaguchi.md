@@ -1,6 +1,6 @@
 ---
 name: Takumi Yamaguchi
-image: images/takumiyamaguchi.png
+image: images/yamaguchi.png
 role: undergrad
 ---
 

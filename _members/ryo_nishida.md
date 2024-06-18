@@ -1,6 +1,6 @@
 ---
 name: Ryo Nishida
-image: images/ryonishida.jpg
+image: images/nishida.jpg
 role: masters
 
 ---

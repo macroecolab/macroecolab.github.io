@@ -1,6 +1,6 @@
 ---
 name: Everton Miranda
-image: images/miranda2.jpg
+image: images/miranda.jpg
 role: asstprof
 group: alum
 links:

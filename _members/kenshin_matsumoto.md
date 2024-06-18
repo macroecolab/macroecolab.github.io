@@ -1,6 +1,6 @@
 ---
 name: Kenshin Matsumoto
-image: images/kenshinphoto.jpg
+image: images/kenshin.jpg
 role: undergrad
 aliases:
   - J. Smith
