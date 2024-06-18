@@ -1,11 +1,106 @@
-- id: doi:10.1016/j.tree.2023.10.011
-  type: paper
-  image: images/tree2024.jpg
-  description: We describe the current state of predicting nature’s contributions to people (a.k.a., ecosystem services) and its challenges, highlight potential benefits of biodiversity modeling advances, and explain how these improved predictions can help to meet goals of international frameworks for biodiversity conservation.
-  tags:
-    - ecosystem service
-    - biodiversity
-- id: doi:10.1098/rspb.2023.1185
-  type: paper
-  image: images/rspb2023.jpg
-  description: We did something
+- id: doi:10.1101/2024.04.12.589151
+  publisher: bioRxiv
+  
+- id: doi:10.32942/OSF.IO/CKSPQ
+  publisher: ecoevoRxiv
+  
+- id: doi:10.1101/2022.08.08.503252
+  publisher: bioRxiv
+  
+- id: doi:10.1002/bes2.1813
+  remove: true
+  
+- id: doi:10.1101/2020.02.18.954867
+  remove: true
+  
+- id: doi:10.1111/gcb.16181
+  title: "Linking ecological niche models and common garden experiments to 
+  predict phenotypic differentiation in stressful environments: Assessing 
+  the adaptive value of marginal populations in an alpine plant"
+  authors:
+  - "Javier Morente-L\xF3pez"
+  - Jamie M. Kass
+  - Carlos Lara-Romero
+  - "Josep M. Serra-Diaz"
+  - "Jos\xE9 Carmen Soto-Correa"
+  - Robert P. Anderson
+  - "Jos\xE9 M. Iriondo"
+  publisher: Global Change Biology
+  date: '2022-03-31'
+  link: https://doi.org/10.1111/gcb.16181
+  orcid: 0000-0002-9432-895X
+  
+- id: doi:10.1002/eap.2228
+  title: "Improving area of occupancy estimates for parapatric species using 
+  distribution models and support vector machines"
+  authors:
+  - Jamie M. Kass
+  - Sarah I. Meenan
+  - "Nicol\xE1s Tinoco"
+  - Santiago F. Burneo
+  - Robert P. Anderson
+  publisher: Ecological Applications
+  date: '2020-09-24'
+  link: https://doi.org/10.1002/eap.2228
+  orcid: 0000-0002-9432-895X
+  
+- id: uri:https://journals.ku.edu/jbi/article/view/15016
+  authors:
+  - A. Townsend Peterson 
+  - Matthew Aiello-Lammens
+  - Giuseppe Amatulli
+  - Robert Anderson
+  - Marlon Cobos
+  - José Alexandre Diniz-Filho
+  - Luis Escobar
+  - Xiao Feng
+  - Janet Franklin
+  - Luiz Gadelha
+  - Damien Georges
+  - Maya Guéguen
+  - Tomer Gueta
+  - Kate Ingenloff
+  - Scott Jarvie
+  - Laura Jiménez
+  - Dirk Karger
+  - Jamie M. Kass
+  - Michael Kearney
+  - Rafael Loyola
+  - Fernando Machado-Stredel
+  - Enrique Martínez-Meyer
+  - Cory Merow
+  - Maria Luiza Mondelli
+  - Sara Mortara
+  - Robert Muscarella
+  - Corinne Myers
+  - Babak Naimi
+  - Daniel Noesgaard
+  - Ian Ondo
+  - Luis Osorio-Olvera
+  - Hannah Owens
+  - Richard Pearson
+  - Gonzalo Pinilla-Buitrago
+  - Andrea Sánchez-Tapia
+  - Erin Saupe
+  - Wilfried Thuiller
+  - Sara Varela
+  - Dan Warren
+  - John Wieczorek
+  - Katherine Yates
+  - Gengping Zhu
+  - Gabriela Zuquim
+  - Damaris Zurell
+
+- id: doi:10.1111/jbi.13573
+   authors:
+     - Brandon N. Reid
+     - Jamie M. Kass
+     - Seth Wollney
+     - Evelyn L. Jensen
+     - Michael A. Russello
+     - E. M. Viola
+     - Jouvay Pantophlet
+     - John B. Iverson
+     - M. Zachariah Peery
+     - Christopher J. Raxworthy
+     - Eugenia Naro-Maciel  

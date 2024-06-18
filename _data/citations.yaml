@@ -26,17 +26,8 @@
   date: '2024-04-01'
   link: https://doi.org/gtb9c2
   orcid: 0000-0002-9432-895X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: images/tree2024.jpg
-  description: "We describe the current state of predicting nature\u2019s contributions\
-    \ to people (a.k.a., ecosystem services) and its challenges, highlight potential\
-    \ benefits of biodiversity modeling advances, and explain how these improved predictions\
-    \ can help to meet goals of international frameworks for biodiversity conservation."
-  tags:
-  - ecosystem service
-  - biodiversity
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rspb.2023.1185
   title: Breakdown in seasonal dynamics of subtropical ant communities with land-cover
     change
@@ -54,11 +45,8 @@
   date: '2023-10-11'
   link: https://doi.org/gtb9dz
   orcid: 0000-0002-9432-895X
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  image: images/rspb2023.jpg
-  description: We did something
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/acv.12907
   title: 'Genomic and environmental insights and conservation challenges for two hybridizing
     iconic crocodile species across Mexico: <i>Crocodylus acutus</i> and <i>C. moreletii</i>'
