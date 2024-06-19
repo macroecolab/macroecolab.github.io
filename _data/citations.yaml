@@ -350,7 +350,7 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: https://journals.ku.edu/jbi/article/view/15016
+- id: uri:https://journals.ku.edu/jbi/article/view/15016
   title: 'ENM2020: A Free Online Course and Set of Resources on Modeling Species''
     Niches and Distributions'
   publisher: Biodiversity Informatics
