@@ -45,6 +45,9 @@
   orcid: 0000-0002-9432-895X
   
 - id: https://journals.ku.edu/jbi/article/view/15016
+  remove: true
+  
+- id: https://doi.org/10.17161/bi.v17i.15016
   authors:
   - A. Townsend Peterson 
   - Matthew Aiello-Lammens
@@ -90,6 +93,12 @@
   - Gengping Zhu
   - Gabriela Zuquim
   - Damaris Zurell
+  title: 'ENM2020: A Free Online Course and Set of Resources on Modeling Species''
+    Niches and Distributions'
+  publisher: Biodiversity Informatics
+  date: '2022-06-02'
+  link: https://journals.ku.edu/jbi/article/view/15016
+  orcid: 0000-0002-9432-895X
 
 - id: doi:10.1111/jbi.13573
    authors:
