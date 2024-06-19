@@ -351,12 +351,57 @@
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
-- id: uri:https://journals.ku.edu/jbi/article/view/15016
+- id: doi:10.17161/bi.v17i.15016
   title: 'ENM2020: A Free Online Course and Set of Resources on Modeling Species''
     Niches and Distributions'
+  authors:
+  - A. Townsend Peterson
+  - Matthew Aiello-Lammens
+  - Giuseppe Amatulli
+  - Robert Anderson
+  - Marlon Cobos
+  - "Jos\xE9 Alexandre Diniz-Filho"
+  - Luis Escobar
+  - Xiao Feng
+  - Janet Franklin
+  - Luiz Gadelha
+  - Damien Georges
+  - "M Gu\xE9guen"
+  - Tomer Gueta
+  - Kate Ingenloff
+  - Scott Jarvie
+  - "Laura Jim\xE9nez"
+  - Dirk Karger
+  - Jamie Kass
+  - Michael Kearney
+  - Rafael Loyola
+  - Fernando Machado-Stredel
+  - "Enrique Mart\xEDnez-Meyer"
+  - Cory Merow
+  - Maria Luiza Mondelli
+  - Sara Mortara
+  - Robert Muscarella
+  - Corinne Myers
+  - Babak Naimi
+  - Daniel Noesgaard
+  - Ian Ondo
+  - Luis Osorio-Olvera
+  - Hannah Owens
+  - Richard Pearson
+  - Gonzalo Pinilla-Buitrago
+  - "Andrea S\xE1nchez-Tapia"
+  - Erin Saupe
+  - Wilfried Thuiller
+  - Sara Varela
+  - Dan Warren
+  - John Wieczorek
+  - Katherine Yates
+  - Gengping Zhu
+  - Gabriela Zuquim
+  - Damaris Zurell
   publisher: Biodiversity Informatics
-  date: '2022-06-02'
-  link: https://journals.ku.edu/jbi/article/view/15016
+  date: '2022-03-06'
+  link: https://doi.org/gpsgzz
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
