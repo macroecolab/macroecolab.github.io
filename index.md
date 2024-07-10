@@ -3,7 +3,9 @@
 
 {% include section.html %}
 
-#### At the **Macroecology Lab** at Tohoku University, we conduct research on how biodiversity is distributed across the Earth and predict how it will change in the future.
+### At the **Macroecology Lab** at Tohoku University, we conduct research to better understand how biodiversity is distributed across the Earth, how disturbances like land development and climate change affect biodiversity, and how changes to biodiversity can affect human society. 
+
+### To do this, we use **statistical models** and **geospatial analyses** to predict and map species' ranges and biodiversity patterns, including estimates for **future global scenarios**. We also develop **open-source tools** for the research community and science education.
 
 {% include section.html%}
 
@@ -82,6 +84,6 @@
 {% include section.html background="images/background2.jpg" dark=false
 size=full %}
 
-# [NEWS](blog)
+# [Announcements](blog)
 
 {% include list.html data="posts" component="post-excerpt" %}

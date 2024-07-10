@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41467-024-49918-2
+  title: Global biogeographic regions for ants have complex relationships with those
+    for plants and tetrapods
+  authors:
+  - Runxi Wang
+  - Jamie M. Kass
+  - Chhaya Chaudhary
+  - Evan P. Economo
+  - "Benoit Gu\xE9nard"
+  publisher: Nature Communications
+  date: '2024-07-05'
+  link: https://doi.org/gt3ws8
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.04.12.589151
   title: 'Differences in factors determining taxon-based and trait-based community
     structures: a field test using zooplankton'
