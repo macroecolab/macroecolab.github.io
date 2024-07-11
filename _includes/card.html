@@ -1,4 +1,9 @@
-{{ " " }}
+{% assign member = site.projects
+  | where_exp: "project", "project.slug == include.lookup"
+  | first
+  | default: include
+%}
+
 <div class="card" data-style="{{ include.style }}">
   <a
     {% if include.link %}
@@ -18,9 +23,7 @@
   <div class="card-text">
     {% if include.title %}
       <a
-        {% if include.link %}
-          href="{{ include.link | relative_url }}"
-        {% endif %}
+          href="{{ include.url | relative_url }}"
         {% if include.tooltip %}
           data-tooltip="{{ include.tooltip }}"
         {% endif %}
