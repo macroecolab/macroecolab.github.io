@@ -39,7 +39,7 @@
   authors:
   - Hiromichi Suzuki
   - Hidetaka Ichiyanagi
-  - Jamie M Kass
+  - Jamie M. Kass
   - Jotaro Urabe
   publisher: bioRxiv
   date: '2024-04-15'
@@ -55,7 +55,7 @@
   - Keiichi Fukaya
   - Wilfried Thuiller
   - Akira S. Mori
-  publisher: Trends in Ecology &amp; Evolution
+  publisher: Trends in Ecology & Evolution
   date: '2024-04-01'
   link: https://doi.org/gtb9c2
   orcid: 0000-0002-9432-895X
@@ -137,21 +137,11 @@
   - Adam Wilson
   publisher: Research Square Platform LLC
   date: '2023-08-04'
-  link: https://doi.org/gtb9d3
+  link: https://doi.org/10.21203/rs.3.rs-3222221/v1
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/een.13216
-  title: "Dynamic distribution modelling of the swamp tigertail dragonfly<i>Synthemis\
-    \ eustalacta</i>(Odonata: Anisoptera: Synthemistidae) over a 20\u2010year bushfire\
-    \ regime"
-  authors:
-  - Aaron M. Goodman
-  - Jamie M. Kass
-  - Jessica Ware
-  publisher: Ecological Entomology
-  date: '2022-12-10'
-  link: https://doi.org/gtb9d4
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
