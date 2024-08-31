@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ece3.70030
+  title: Code sharing in ecology and evolution increases citation rates but remains
+    uncommon
+  authors:
+  - Brian Maitner
+  - "Paul Efren Santos\_Andrade"
+  - Luna Lei
+  - Jamie Kass
+  - Hannah L. Owens
+  - George C. G. Barbosa
+  - Brad Boyle
+  - Matiss Castorena
+  - Brian J. Enquist
+  - Xiao Feng
+  - Daniel S. Park
+  - Andrea Paz
+  - "Gonzalo Pinilla\u2010Buitrago"
+  - Cory Merow
+  - Adam Wilson
+  publisher: Ecology and Evolution
+  date: '2024-08-01'
+  link: https://doi.org/gt8htx
+  orcid: 0000-0002-9432-895X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/ecog.07121
   title: 'Common ant species dominate morphospace: unraveling the morphological diversity
     in the Brazilian Amazon Basin'
@@ -39,7 +64,7 @@
   authors:
   - Hiromichi Suzuki
   - Hidetaka Ichiyanagi
-  - Jamie M Kass
+  - Jamie M. Kass
   - Jotaro Urabe
   publisher: bioRxiv
   date: '2024-04-15'
@@ -55,7 +80,7 @@
   - Keiichi Fukaya
   - Wilfried Thuiller
   - Akira S. Mori
-  publisher: Trends in Ecology &amp; Evolution
+  publisher: Trends in Ecology & Evolution
   date: '2024-04-01'
   link: https://doi.org/gtb9c2
   orcid: 0000-0002-9432-895X
@@ -137,7 +162,7 @@
   - Adam Wilson
   publisher: Research Square Platform LLC
   date: '2023-08-04'
-  link: https://doi.org/gtb9d3
+  link: https://doi.org/10.21203/rs.3.rs-3222221/v1
   orcid: 0000-0002-9432-895X
   plugin: orcid.py
   file: orcid.yaml
