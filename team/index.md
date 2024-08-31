@@ -23,8 +23,13 @@ Asia, global).
 <!-- section break -->
 
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: visitPhd" %}
 {% include list.html data="members" component="portrait" filters="role: masters" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+<!-- section break -->
+## Retired members
+
 {% include list.html data="members" component="portrait" filters="role: exchange" %}
 
 

@@ -1,6 +1,6 @@
 ---
 name: So Kaneko
-image: images/sokaneko.png
+image: images/kaneko.png
 role: undergrad
 aliases:
   - J. Smith
