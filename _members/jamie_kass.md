@@ -2,9 +2,6 @@
 name: Jamie M. Kass
 image: images/self_portrait.jpg
 role: pi
-aliases:
-  - J. Smith
-  - J Smith
 links:
   home-page: https://jamiemkass.github.io
   orcid: 0000-0002-9432-895X
