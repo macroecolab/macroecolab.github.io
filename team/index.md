@@ -28,7 +28,7 @@ Asia, global).
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 <!-- section break -->
-## Retired members
+## Past members
 
 {% include list.html data="members" component="portrait" filters="role: exchange" %}
 
