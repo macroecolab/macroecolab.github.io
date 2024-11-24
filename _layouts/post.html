@@ -17,6 +17,11 @@ layout: default
 
 {{ content }}
 
+{%
+  include figure.html
+  image=page.image
+%}
+
 {% include section.html %}
 
 {% include post-nav.html post=page %}
