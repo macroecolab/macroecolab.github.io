@@ -4,4 +4,3 @@ image: images/minamisanriku2.jpg
 
 ---
 
-

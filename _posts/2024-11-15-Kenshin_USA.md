@@ -1,7 +1,9 @@
 ---
 title: Matsumoto travels to USA
-image: images/minamisanriku1.jpg
+image: kenshin_usa.JPG
 
 ---
 
-We set up an array of wildlife cameras, local temperature sensors, and bioacoustics sensors in several mountain forests in Minamisanriku for for a two-month biodiversity monitoring project. This data collection is in collaboration with [Snapshot Japan](https://www.nies.go.jp/biology/snapshot_japan/en/index.html), which will be combining monitoring data for sites across Japan to assess the nationwide state of biodiversity.
+4th-year student Kenshin Matsumoto traveled Boston and San-Francisco by Sendai Global Startup Campus(https://sgsc.world)!
+He took a five-month course, was selected by Sendai city, and pitched his business plan at CIC(https://cic.com/ja/) in Boston.
+He also visited Harvard, MIT, and Stanford. 
