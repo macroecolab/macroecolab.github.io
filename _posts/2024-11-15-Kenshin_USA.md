@@ -1,6 +1,6 @@
 ---
 title: Matsumoto travels to USA
-image: kenshin_usa.JPG
+image: kenshin_usa.jpg
 
 ---
 
