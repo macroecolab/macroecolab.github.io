@@ -1,0 +1,29 @@
+- name: Jamie M. Kass
+  photo: kass.jpg
+  info: Associate Professor, PI
+  email: kass@tohoku.ac.jp
+  number_educ: 3
+  education1: PhD in Biology, City University of New York, 2019
+  education2: Masters of Environmental Management, Duke University, 2007
+  education3: Bachelors of Science in Biology, Bachelors of Arts in English, SUNY Binghamton, 2004
+
+- name: Everton Miranda
+  photo: miranda.jpg
+  info: Assistant Professor
+  email: miranda@tohoku.ac.jp
+  number_educ: 4
+  education1: PhD in Ecology, University of KwaZulu-Natal, 2020
+  education2: MSc in Ecology and Biodiversity Conservation, Mato Grosso Federal University
+  education3: Degree in Environmental Law, Candido Mendes University
+  education4: Bachelors in Biological Sciences, Rio de Janeiro Federal University
+
+- name: Jotaro Urabe
+  photo: urabe.jpg
+  info: Research Fellow (Emeritus Professor)
+  email: urabe@tohoku.ac.jp
+  number_educ: 3
+  education1: PhD, Tokyo Metropolitan University, 1988
+  education2: Master, Tokyo University of Fisheries, 1984
+  education3: Bachelors, Tokyo University of Fisheries, 1982
+
+

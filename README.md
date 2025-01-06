@@ -1,7 +1,11 @@
+# Allan Lab Website
 
-# macroecolab-tohoku's Website
+This is the website of our academic research group at Leiden University.
 
-Visit **[macroecolab.github.io](https://macroecolab.github.io)** 🚀
+This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to make it simple yet adaptable, so that it is easy for you to use it as a template. Plese feel free to copy and modify for your own purposes.  You don't have to link to us or mention us (but of course we appreciate it).
 
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+
+
+Copyright Allan Lab. Code released under the MIT License.
 
