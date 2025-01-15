@@ -2,9 +2,34 @@
 layout: default
 ---
 
+<style>
+  .container {
+  display: flex;
+  align-items: left;
+  justify-content: left
+  
+  
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 35px;
+  padding-left: 0px;
+}
+</style>
+
   <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Macroecology Lab</h1>
-        <h1>マクロ生態分野へようこそ</h1>
+    <div class="container">
+      <div class="text">
+        <p>Welcome to the Macroecology Lab</p>
+        <p>マクロ生態分野へようこそ</p>
+      </div>
+      <div class="image">
+        <img src="images/logopic/macroecolab_logo.png" style="width: 150px">
+      </div>
+    </div>
 
 	{{ content }}
   </div>
