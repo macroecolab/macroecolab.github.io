@@ -25,7 +25,7 @@ permalink: /
             <img src="images/slider/hanami.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="images/slider/minamisanriku1.jpg" alt="Slide 2" />
+            <img src="images/slider/minamisanriku.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="images/slider/sciadv2022.jpg" alt="Slide 3" />
