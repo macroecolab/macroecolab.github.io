@@ -8,39 +8,34 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Our main research goal is to understand how the diversity of life is distributed on Earth, and ultimately what drives these patterns.
 
-Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
+To do this, we use statistical models and geospatial tools to estimate and map geographic distributions of species and communities, indices of biodiversity, and human impacts on nature for different taxa and spatiotemporal scales.
 
 Here are some themes and techniques that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+*Advancements for species distribution modeling*
+<img src="images/research/sdm.png" alt="SDMs" align="left" width="60%" style="margin:20px"/>
+
+Species distribution models (SDMs) make estimates of habitat suitability, range limits, and niche relationships with environmental variables. For example, we use SDMs to map biodiversity patterns at large geographic scales (A: [Kass et al. 2022](https://doi.org/10.1126/sciadv.abp9908)); employ SDMs for various applications including climate change impacts, conservation, and invasion risk (B: image from Kass et al. *in review*); and work with collaborators to develop open-source tools for community use such as the R package [ENMeval](https://doi.org/10.1111/2041-210X.13628) (C), which enables automated tuning of complexity for SDMs, and the R application [Wallace EcoMod](https://doi.org/10.1111/ecog.06547) (D), which allows users to complete a reproducible SDM workflow using an interactive graphic-user interface. 
 
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+## Mapping ecosystem service potential with biodiversity models
+<img src="images/research/kibanC.png" alt="kibanC" width="50%" align="left" style="margin:20px"/>
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+Future climate change will alter current biodiversity patterns and affect the providers of crucial ecosystem functions and services, such as pollination and food provision. To maintain them, we need accurate predictions of how the diversity of providers may shift in the future, including individual species' ranges and composite metrics such as richness and turnover of taxonomic, phylogenetic, and functional diversity. Given the connections between biodiversity and ecosystem function, we can link these predictions to the potential for provision of crucial ecosystem services. However, future predictions of biodiversity are associated with many sources of uncertainty, and identifying which regions have predictions with high confidence is crucial for environmental planning. Dr. Kass is managing PI of a **JSPS KAKENHI Grant-in-aid for Scientific Research** (Kiban C) that aims to both quantify and map aspects of future prediction uncertainty for important providers of ecosystem functions and services: bees, butterflies, and edible wild plants. This grant is managed by Prof. Kass and includes collaborators from Tohoku University and the National Institute of Environmental Studies (NIES).
 
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+## Estimating patterns of marine biodiversity using eDNA
+<img src="images/research/wpi-aimec.png" alt="aimec" align="right" width="30%" style="margin:20px"/>
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+Marine biodiversity is heavily studied but still relatively unknown. One main reason is that many organisms are very difficult to detect due to cryptic habitat preferences or behavior, occupancy of deep ocean strata, or simply because they are rare within their ranges. All organisms shed DNA strands into the environment, called eDNA, and these can be sampled to significantly broaden the scope and accuracy of detections, potentially leading to the discovery of new species. Species distribution models and other biodiversity models constructed with eDNA, along with other sources such as occurrence data from museums and citizen science, have the great potential to elucidate unknown centers of marine diversity. The Macroecology Lab is collaborating with the [Ecological Integration Lab](https://www.lifesci.tohoku.ac.jp/en/research/fields/laboratory.html?id=2553) led by Prof. Michio Kondoh on two projects that center on these themes. [WPI-AIMEC](https://wpi-aimec.jp/en/) is an interdisciplinary research institution established jointly this year at Tohoku University and [JAMSTEC](https://www.jamstec.go.jp/e/) to research how marine ecosystems respond to environmental changes combining ocean physics, ecology, and data science. Ocean Shot is a grant sponsored by the [Sasakawa Peace Foundation](https://www.spf.org/en/) to build a comprehensive reference database for understudied marine organisms that will help us match eDNA samples to species.
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+## Automated wildlife monitoring using cameras, sound recorders, and local climate measurements
+<img src="images/research/NPhub.png" alt="NPhub" width="400" align="left" width="30%" style="margin:20px"/>
 
-### ... and more.
+Expanding networks to monitor biodiversity is vital to fill sampling gaps and investigate how ecological communities shift over gradients of environmental change and over time. We are constructing stations in pilot areas around Japan (currently Miyagi prefecture) that feature automated infrared cameras, sound recorders, and devices to measure local climate conditions (i.e., below-canopy temperature). We will use these data to develop models to predict species' occupancy and detection probabilities over environmental gradients, as well as monitor how communities change over time with disturbances. To do this, we are connecting with local partners in the private sector through the COI-NEXT project Nature-Positive Sustainable Development Hub, funded by [JST](https://www.jst.go.jp/EN/) and managed by Prof. Michio Kondoh. We are contributors to the [Snapshot Japan](https://www.nies.go.jp/biology/snapshot_japan/en/index.html) project, which aims to assess the status of wildlife in Japan on a yearly basis by combining camera trap data from across the country.
+
+
+
