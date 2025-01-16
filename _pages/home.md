@@ -57,10 +57,6 @@ To do this, we use statistical models and geospatial analyses to predict and map
 
 Our [research](research) projects focus on themes in biogeography, ecological modeling, conservation, and ecosystem services. The Macroecology Lab is a diverse [team](team) of researchers and students passionate about ecological modeling and mapping. **If you are interested in joining us, please see this page for [prospective students](vacancies).**
 
-
 <figure class="fourth">
-  <img src="images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="images/logopic/macroecolab_logo.png" style="width: 210px">
 </figure>
