@@ -52,11 +52,10 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## Full List of Publications
 
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+- **[{{ publi.title }}]({{ publi.link.url }})**  
+  <em>{{ publi.authors }}</em>
 {% endfor %}
+
