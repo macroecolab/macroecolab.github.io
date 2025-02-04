@@ -4,6 +4,8 @@
   image: ecog2024.jpg
   description: "Which R package should I use for species distribution modeling? The answer is many of them, together. We assessed the wide variety of R packages for species distribution models and highlighted how they can work together to improve methodological standards and diversify analyses in each step of a modeling workflow. We also introduce the new R package ‘sdmverse' to catalog metadata for packages, cluster them based on their methodological functions, and visualize their relationships."
   authors: "**Kass, J. M.**, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A., Zurell, D."
+  journal: "Ecography (early view)"
+  issue: "e07346"
   link:
     url: "https://doi.org/10.1111/ecog.07346"
     display: "Ecography (Early View), e07346 (2024)"
@@ -11,7 +13,7 @@
   
 
 - title: "Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton"
-  year: 2025
+  year: 2024
   description: "This study investigates the different factors that determine taxon-based and trait-based community structures in zooplankton. The field test results provide insights into ecological processes shaping community diversity and distribution patterns."
   authors: "Suzuki, H., Ichiyanagi, H., **Kass, J. M.**, Urabe, J."
   journal: "Limnology and Oceanography"
@@ -28,6 +30,8 @@
   year: 2024
   description: "This paper discusses the collaboration between end users and developers in biodiversity conservation software development, exploring the advantages of co-design to better meet conservation needs."
   authors: "Blair, M. E., Noguera-Urbano, E. A., Ochoa-Quintero, J. M., Paz, A., Lopez-Gallego, C., Echeverry-Galvis, M. Á., Zuloaga, J., Rodríguez, P., Lemus-Mejia, L., Ersts, P., López-Lozano, D. F., Aiello-Lammens, M. E., Arango, H. M., Buitrago, L., Chang Triguero, S., Cruz-Rodríguez, C. A., Díaz-Nieto, J. F., Escobar, D., Grisales-Betancur, V., Johnson, B. A., **Kass, J. M.**, Londoño-Murcia, M. C., Merow, C., Muñoz-Rodríguez, C. J., Olaya-Rodríguez, M. H., Anderson, R. P."
+  journal: "BioScience"
+  issue: "biae097"
   link:
     url: "https://doi.org/10.1093/biosci/biae097"
     display: "BioScience, biae097 (2024)"
@@ -38,6 +42,9 @@
   year: 2024
   description: "This paper analyzes the impact of code sharing in ecology and evolution on citation rates and highlights the low frequency of such practices despite the clear benefits."
   authors: "Maitner, B., Santos Andrade, P. E., Lei, L., Kass, J., Owens, H. L., Barbosa, G. C. G., Boyle, B., Castorena, M., Enquist, B. J., Feng, X., Park, D. S., Paz, A., Pinilla-Buitrago, G., Merow, C., Wilson, A."
+  journal: "Ecology and Evolution"
+  volume: 14
+  issue: "e70030"
   link:
     url: "https://doi.org/10.1002/ece3.70030"
     display: "Ecology and Evolution, 14, e70030 (2024)"
@@ -47,6 +54,8 @@
   year: 2024
   description: "This study examines the morphological diversity of common ant species in the Brazilian Amazon Basin, shedding light on how dominant species shape the morphospace."
   authors: "Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., **Kass, J. M.**, Warren, D. L., Silva, R. R."
+  journal: "Ecography"
+  issue: "e07121"
   link:
     url: "https://doi.org/10.1111/ecog.07121"
     display: "Ecography, e07121 (2024)"
@@ -56,6 +65,10 @@
   year: 2024
   description: "This study explores the global biogeographic regions for ants and their complex relationships with those for plants and tetrapods, revealing significant patterns in biodiversity distribution."
   authors: "Wang, R., **Kass, J. M.**, Chaudhary, C., Economo, E. P., Guénard, B."
+  journal: "Nature Communications"
+  volume: 15
+  issue: 1
+  pages: "5641"
   link:
     url: "https://doi.org/10.1038/s41467-024-49918-2"
     display: "Nature Communications, 15(1), 5641 (2024)"
@@ -66,6 +79,10 @@
   image: tree2024.jpg
   description: "This paper discusses the latest advancements in biodiversity modeling and how they can improve predictions related to nature's contributions to people, with implications for conservation and policy."
   authors: "**Kass, J. M.**, Fukaya, K., Thuiller, W., Mori, A. S."
+  journal: "Trends in Ecology and Evolution"
+  volume: 39
+  issue: 4
+  pages: "338–348"
   link:
     url: "https://doi.org/10.1016/j.tree.2023.10.011"
     display: "Trends in Ecology and Evolution, 39(4), 338–348 (2024)"
@@ -78,6 +95,9 @@
   image: roysci2023.jpg
   description: "..."
   authors: "**Kass, J. M.**, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P."
+  journal: "Proceedings of the Royal Society B: Biological Sciences"
+  volume: 290
+  pages: "20231185"
   link:
     url: "https://doi.org/10.1098/rspb.2023.1185"
     display: "Proceedings of the Royal Society B: Biological Sciences, 290, 20231185"
@@ -90,6 +110,7 @@
   year: 2023
   description: "..."
   authors: "Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., **Kass, J. M.**, Paz, A., Pérez-Alquicira, J."
+  journal: "Animal Conservation (Early View)"
   link:
     url: "https://doi.org/10.1111/acv.12907"
     display: "Animal Conservation, Early View"
@@ -99,6 +120,9 @@
   year: 2023
   description: "..."
   authors: "French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., **Kass, J. M.**, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J."
+  journal: "Nature Communications"
+  volume: 14
+  pages: 5276
   link:
     url: "https://doi.org/10.1038/s41467-023-40936-0"
     display: "Nature Communications, 14, 5276"
@@ -108,6 +132,9 @@
   year: 2023
   description: "..."
   authors: "Merow, C., Boyle, B., Enquist, B. J., Feng, X., **Kass, J. M.**, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M."
+  journal: "Nature Ecology & Evolution"
+  volume: 7
+  pages: "626-627"
   link:
     url: "https://doi.org/10.1038/s41559-023-02008-w"
     display: "Nature Ecology & Evolution, 7, 626-627"
@@ -117,6 +144,8 @@
   year: 2023
   description: "..."
   authors: "**Kass, J. M.**, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P."
+  journal: "Ecography"
+  issue: "e06547"
   link:
     url: "https://doi.org/10.1111/ecog.06547"
     display: "Ecography, e06547"
@@ -126,6 +155,8 @@
   year: 2023
   description: "..."
   authors: "Wang, R., **Kass, J. M.**, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B."
+  journal: "Journal of Biogeography"
+  pages: "503-514"
   link:
     url: "https://doi.org/10.1111/jbi.14546"
     display: "Journal of Biogeography, 503-514"
@@ -135,6 +166,9 @@
   year: 2023
   description: "..."
   authors: "Goodman, A. M., **Kass, J. M.**, & Ware, J."
+  journal: "Ecological Entomology"
+  volume: 48
+  pages: "209-225"
   link:
     url: "https://doi.org/10.1111/een.13216"
     display: "Ecological Entomology, 48: 209-225"
@@ -144,6 +178,8 @@
   year: 2023
   description: "..."
   authors: "Galante, P. J., Chang, S., Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., **Kass, J. M.**, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E."
+  journal: "Conservation Science and Practice"
+  volume: 5
   link:
     url: "https://doi.org/10.1111/csp2.12863"
     display: "Conservation Science and Practice, 5: e12863"
@@ -153,6 +189,8 @@
   year: 2022
   description: "A study on integrating sampling bias into permutation tests to enhance niche and distribution modeling."
   authors: "Warren, D. L., **Kass, J. M.**, Casadei-Ferreira, A., & Economo, E. P."
+  journal: "BioRxiv"
+  issue: "2022.08.08.503252"
   link:
     url: "https://doi.org/10.1101/2022.08.08.503252"
     display: "BioRxiv, 2022.08.08.503252"
@@ -161,6 +199,9 @@
   year: 2022
   description: "Explores the application of randomization analyses to improve niche and distribution modeling."
   authors: "Warren, D. L., **Kass, J. M.**, & Economo, E. P."
+  journal: "EcoEvoXiv"
+  volume:  "2022-09-01 12"
+  issue: "50. Preprint"
   link:
     url: "https://doi.org/10.32942/osf.io/ckspq"
     display: "EcoEvoXiv, 2022-09-01 12:50"
@@ -169,6 +210,9 @@
   year: 2022
   description: "Presents a global study on ant biodiversity, analyzing both discovered and undiscovered species."
   authors: "**Kass, J. M.**, Guénard, B., Dudley, K. L., Jenkins, C. N., Azuma, F., Fisher, B. L., Parr, C. L., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Blatrix, R., Lauriers, J. D., Donoso, D. A., Georgiadis, C., Gomez, K., Hawkes, P. G., Johnson, R. A., Lattke, J. E., MacGown, J. A., MacKay, W., Robson, S., Sanders, N. J., Dunn, R. R., & Economo, E. P."
+  journal: "Science Advances"
+  volume: 8
+  issue: "eabp9908"
   link:
     url: "https://doi.org/10.1126/sciadv.abp9908"
     display: "Science Advances, 8: eabp9908"
@@ -177,6 +221,9 @@
   year: 2022
   description: "Analyzes ant diversity across the Brazilian Amazon Basin, integrating geographic, ecological, and morphological factors."
   authors: "Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., **Kass, J. M.**, Economo, E. P., & Silva, R. R."
+  journal: "Ecography"
+  volume: 9
+  issue: "e06295"
   link:
     url: "https://doi.org/10.1111/ecog.06295"
     display: "Ecography, 9: e06295"
@@ -185,6 +232,9 @@
   year: 2022
   description: "Links ecological niche models with common garden experiments to predict phenotypic differentiation in alpine plants."
   authors: "Morente-López, J., **Kass, J. M.**, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M."
+  journal: "Global Change Biology"
+  volume: 28
+  pages: "4143-4162"
   link:
     url: "https://doi.org/10.1111/gcb.16181"
     display: "Global Change Biology, 28: 4143 - 4162"
@@ -193,6 +243,9 @@
   year: 2022
   description: "Operationalizes expert knowledge in species range estimates, combining multiple data types for more accurate predictions."
   authors: "Merow, C., Galante, P. J., **Kass, J. M.**, Aiello-Lammens, M. E., Babich Morrow, C., Gerstner, B. E., Grisales-Betancur, V., Moore, A. C., Noguera-Urbano, E. A., Buitrago-Pinilla, G. E., Velásquez-Tibatá, Anderson, R. P., & Blair, M. E."
+  journal: "Frontiers of Biogeography"
+  volume: 14.2
+  issue: "e53589"
   link:
     url: "http://dx.doi.org/10.21425/F5FBG53589"
     display: "Frontiers of Biogeography, 14.2: e53589"
@@ -201,6 +254,9 @@
   year: 2022
   description: "A resource for learning how to model species niches and distributions, including an online course and various tools."
   authors: "Peterson, A. T., Aiello-Lammens, M. E., Amatulli, G., Anderson, R. P., Cobos, M. E., Diniz-Filho, J. A. F., Escobar, L. E., Feng, X., Franklin, J., Gadelha Jr., L. M. R., Georges, D., Guéguen, M., Gueta, T., Ingenloff, K., Jarvie, S., Jiménez, L., Karger, D. N., **Kass, J. M.**, Kearney, M. R., Loyola, R., Machado-Stredel, F., Martínez-Meyer, E., Merow, C., Mondelli, M. L., Mortara, S. B., Muscarella, R., Myers, C. E., Naimi, B., Noesgaard, D., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pearson, R., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Saupe, E. E., Thuiller, W., Varela, S., Warren, D. L., Wieczorek, J., Yates, K., Zhu, G., Zuquim, G., & Zurell, D."
+  journal: "Biodiversity Informatics"
+  volume: 17
+  pages: "1-5"
   link:
     url: "https://doi.org/10.17161/bi.v17i.15016"
     display: "Biodiversity Informatics, 17: 1-5"
@@ -209,6 +265,9 @@
   year: 2022
   description: "Proposes using lightweight monitoring to improve biodiversity forecasting across diverse ecological and anthropogenic disturbance gradients."
   authors: "**Kass, J. M.**, Takashina, N., Friedman, N. R., Kusumoto, B., & Blair, M. E."
+  journal: "Ecological Research"
+  volume: 37
+  pages: "466-470"
   link:
     url: "https://doi.org/10.1111/1440-1703.12294"
     display: "Ecological Research, 37: 466 - 470"
