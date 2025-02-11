@@ -2,7 +2,7 @@
 - title: "Achieving higher standards in species distribution modeling by leveraging the diversity of available software"
   year: 2024
   image: ecog2024.jpg
-  description: "Which R package should I use for species distribution modeling? The answer is many of them, together. We assessed the wide variety of R packages for species distribution models and highlighted how they can work together to improve methodological standards and diversify analyses in each step of a modeling workflow. We also introduce the new R package ‘sdmverse' to catalog metadata for packages, cluster them based on their methodological functions, and visualize their relationships."
+  description: "Which R package should I use for species distribution modeling? The answer is many of them, together. We assessed the wide variety of R packages for species distribution models and highlighted how they can work together to improve methodological standards and diversify analyses. We also introduce the new R package ‘sdmverse' to catalog metadata for packages and visualize their relationships."
   authors: "**Kass, J. M.**, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A., Zurell, D."
   journal: "Ecography (early view)"
   issue: "e07346"
@@ -15,7 +15,7 @@
 - title: "Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton"
   year: 2024
   description: "This study investigates the different factors that determine taxon-based and trait-based community structures in zooplankton. The field test results provide insights into ecological processes shaping community diversity and distribution patterns."
-  authors: "Suzuki, H., Ichiyanagi, H., **Kass, J. M.**, Urabe, J."
+  authors: "**Suzuki, H.**, Ichiyanagi, H., **Kass, J. M.**, Urabe, J."
   journal: "Limnology and Oceanography"
   pages: 113-127
   volume: 70
@@ -77,7 +77,7 @@
 - title: "Biodiversity modeling advances will improve predictions of nature’s contributions to people"
   year: 2024
   image: tree2024.jpg
-  description: "This paper discusses the latest advancements in biodiversity modeling and how they can improve predictions related to nature's contributions to people, with implications for conservation and policy."
+  description: "We explain how the latest advancements in biodiversity modeling can improve predictions related to nature's contributions to people. Includes examples of potential implementations and discusses implications for conservation and policy."
   authors: "**Kass, J. M.**, Fukaya, K., Thuiller, W., Mori, A. S."
   journal: "Trends in Ecology and Evolution"
   volume: 39
@@ -87,13 +87,12 @@
     url: "https://doi.org/10.1016/j.tree.2023.10.011"
     display: "Trends in Ecology and Evolution, 39(4), 338–348 (2024)"
   highlight: 1
-  news1: "Press Releases"
-  news2: "Tohoku University (general): <a href='https://www.tohoku.ac.jp/en/press/cuttingedge_biodiversity_models_help_assess_natures_vital_contribution_to_people.html'>Link</a>, Tohoku University Graduate School of Life Sciences: <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-51687.html'>Link</a>"
+  news1: "Press Releases: <a href='https://www.tohoku.ac.jp/en/press/cuttingedge_biodiversity_models_help_assess_natures_vital_contribution_to_people.html'>Tohoku University</a>, <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-51687.html'>Tohoku University Graduate School of Life Sciences</a>"
 
 - title: "Breakdown in seasonal dynamics of ant communities with land-cover change"
   year: 2023
   image: roysci2023.jpg
-  description: "..."
+  description: "Using two years of biweekly ant community surveys for 24 sites spanning an historical land-use gradient on Okinawa Island, we found that the seasonal activity patterns of ant communities were increasingly diminished as forest shifted to urban and agricultural land-use."
   authors: "**Kass, J. M.**, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P."
   journal: "Proceedings of the Royal Society B: Biological Sciences"
   volume: 290
@@ -102,8 +101,7 @@
     url: "https://doi.org/10.1098/rspb.2023.1185"
     display: "Proceedings of the Royal Society B: Biological Sciences, 290, 20231185"
   highlight: 1
-  news1: "Press Release"
-  news2: "<a href='https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes'>OIST</a>"
+  news1: "Press Release: <a href='https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes'>OIST</a>"
  
 
 - title: "Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico"
@@ -208,7 +206,8 @@
 
 - title: "The global distribution of known and undiscovered ant biodiversity"
   year: 2022
-  description: "Presents a global study on ant biodiversity, analyzing both discovered and undiscovered species."
+  image: sciadv2022.jpg
+  description: "We employed an extensive ant occurrence database and species distribution modeling to map global patterns of ant biodiversity at relatively high resolution. We also estimated areas of unknown diversity using machine learning that highlight regions for future sampling to discover new species."
   authors: "**Kass, J. M.**, Guénard, B., Dudley, K. L., Jenkins, C. N., Azuma, F., Fisher, B. L., Parr, C. L., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Blatrix, R., Lauriers, J. D., Donoso, D. A., Georgiadis, C., Gomez, K., Hawkes, P. G., Johnson, R. A., Lattke, J. E., MacGown, J. A., MacKay, W., Robson, S., Sanders, N. J., Dunn, R. R., & Economo, E. P."
   journal: "Science Advances"
   volume: 8
@@ -216,6 +215,9 @@
   link:
     url: "https://doi.org/10.1126/sciadv.abp9908"
     display: "Science Advances, 8: eabp9908"
+  news1: "Press Release: <a href='https://www.oist.jp/news-center/news/2022/8/4/new-global-map-ant-biodiversity-reveals-areas-may-hide-undiscovered-species'>OIST</a>"
+
+  highlight: 1    
 
 - title: "A large-scale assessment of ant diversity across the Brazilian Amazon Basin"
   year: 2022
