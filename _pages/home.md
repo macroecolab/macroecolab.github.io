@@ -55,4 +55,4 @@ At the Macroecology Lab at Tohoku University, we conduct research to better unde
 
 To do this, we use statistical models and geospatial analyses to predict and map species’ ranges and biodiversity patterns, including estimates for future global scenarios. We also develop open-source tools for the research community and science education. 
 
-Our [research](research) projects focus on themes in biogeography, ecological modeling, conservation, and ecosystem services. The Macroecology Lab is a diverse [team](team) of researchers and students passionate about ecological modeling and mapping. **If you are interested in joining us, please see this page for [prospective students](vacancies).**
+Our [research](research) projects focus on themes in biogeography, ecological modeling, conservation, and ecosystem services. The Macroecology Lab is a diverse [team](team) of researchers and students passionate about ecological modeling and mapping. **If you are interested in joining us, please see the [Team page](team).**

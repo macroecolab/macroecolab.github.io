@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Macroecology Lab - Contact"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Contact"
 sitemap: false
-permalink: /vacancies
+permalink: /contact
 ---
 
 # Open positions

@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
-**If you are interested in joining us, please see this page for [prospective students](vacancies).**
+**If you are interested in joining us, we are always looking for talented and experienced students to join the lab for master's and doctoral degree programs. Please send inquiries with a brief research plan to Dr. Kass.**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate students](#undergraduate-students), [alumni](#lab-alumni), and [administrative support](#administrative-support).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -26,7 +26,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -135,7 +135,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Visiting Students
+## Lab Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.visitors %}
@@ -175,4 +175,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:motoko.fujishima.b3@tohoku.ac.jp">Motoko Fujishima</a> is our essential administrative assistant.
+Motoko Fujishima (motoko.fujishima.b3 (at) tohoku.ac.jp) is our essential administrative assistant.
