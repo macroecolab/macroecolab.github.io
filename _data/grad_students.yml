@@ -1,0 +1,47 @@
+- name: Hiromichi Suzuki
+  photo: suzuki.jpg
+  info: D1
+  email:
+  education1: 
+  focus: Limnology and ecology of zooplankton 
+  research: Determinants of zooplankton community structure and dynamics using field studies, experiments, and data analysis
+
+- name: Matthew Durant
+  photo: matthew.png
+  info: M1
+  email:
+  education1: BS Marine Biology, Dalhousie University, 2023
+  focus: Marine conservation climate change 
+  research: Ecology and conservation of Pacific sharks and rays, potential benefits of marine protected areas
+
+- name: Megan Low
+  photo: megan.png
+  info: M1
+  email:
+  education1: University, 2023
+  focus: Functional diversity of pollinating insects
+  research: Predicting and mapping pollinator diversity and pollination service potential
+
+- name: Ryo Nishida
+  photo: nishida.jpg
+  info: M1
+  email:
+  education1: University, 2023
+  focus: Impacts of human activity on biodiversity
+  research: Relationships between traditional land use practices and species' distributions
+  
+- name: Taro Takane
+  photo: takane.jpg
+  info: M1
+  email:
+  education1: Tohoku University, 2023
+  focus: Ecology and evolution of monkeys
+  research: Biogeography and phylogenetic patterns of the genus Macaca
+  
+- name: Ruiqi Zhang
+  photo: zhang.jpg
+  info: M1
+  email:
+  education1: Niigata University, 2023
+  focus: Plant biogeography
+  research: Biogeography of color morphs for ???

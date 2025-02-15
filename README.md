@@ -1,7 +1,6 @@
+# Macroecology Lab @ Tohoku University
 
-# macroecolab-tohoku's Website
+This website is a modified version of the fantastic template by the [Allan Lab](https://www.allanlab.org/aboutwebsite.html) at Leiden University. It is powered by Jekyll and some Bootstrap, Bootwatch. 
 
-Visit **[macroecolab.github.io](https://macroecolab.github.io)** 🚀
-
-_Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
+Copyright Allan Lab. Code released under the MIT License.
 

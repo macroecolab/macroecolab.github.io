@@ -1,0 +1,527 @@
+@use "sass:color";
+@use "mixins/vendor-prefixes";
+@use "variables";
+
+// Lumen 3.3.7
+// Bootswatch
+// -----------------------------------------------------
+
+$web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic" !default;
+@import url($web-font-path);
+
+@mixin shadow($width: 4px){
+  border-width: 0 1px $width 1px;
+}
+
+// Navbar =====================================================================
+
+.navbar  {
+  @include shadow();
+}
+
+// Buttons ====================================================================
+
+.btn {
+  padding: (variables.$padding-base-vertical + 2) variables.$padding-base-horizontal variables.$padding-base-vertical;
+  @include shadow();
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  &:hover {
+    margin-top: 1px;
+    border-bottom-width: 3px;
+  }
+
+  &:active {
+    margin-top: 2px;
+    border-bottom-width: 2px;
+    @include vendor-prefixes.box-shadow(none);
+  }
+
+  &-lg,
+  &-group-lg > .btn {
+    padding: (variables.$padding-large-vertical + 2) variables.$padding-large-horizontal variables.$padding-large-vertical;
+    line-height: 15px;
+  }
+
+  &-sm,
+  &-group-sm > .btn {
+    padding: (variables.$padding-small-vertical + 2) variables.$padding-small-horizontal variables.$padding-small-vertical;
+  }
+
+  &-xs,
+  &-group-xs > .btn {
+    padding: (variables.$padding-xs-vertical + 2) variables.$padding-xs-horizontal variables.$padding-xs-vertical;
+  }
+
+  &-default:hover,
+  &-default:focus,
+  &-group.open .dropdown-toggle.btn-default {
+    background-color: variables.$btn-default-bg;
+    border-color: variables.$btn-default-border;
+  }
+
+  &-primary:hover,
+  &-primary:focus,
+  &-group.open .dropdown-toggle.btn-primary {
+    background-color: variables.$btn-primary-bg;
+    border-color: variables.$btn-primary-border;
+  }
+
+  &-success:hover,
+  &-success:focus,
+  &-group.open .dropdown-toggle.btn-success {
+    background-color: variables.$btn-success-bg;
+    border-color: variables.$btn-success-border;
+  }
+
+  &-info:hover,
+  &-info:focus,
+  &-group.open .dropdown-toggle.btn-info {
+    background-color: variables.$btn-info-bg;
+    border-color: variables.$btn-info-border;
+  }
+
+  &-warning:hover,
+  &-warning:focus,
+  &-group.open .dropdown-toggle.btn-warning {
+    background-color: variables.$btn-warning-bg;
+    border-color: variables.$btn-warning-border;
+  }
+
+  &-danger:hover,
+  &-danger:focus,
+  &-group.open .dropdown-toggle.btn-danger {
+    background-color: variables.$btn-danger-bg;
+    border-color: variables.$btn-danger-border;
+  }
+
+  &-group.open .dropdown-toggle {
+    @include vendor-prefixes.box-shadow(none);
+  }
+}
+
+.navbar-btn {
+  &:hover {
+    margin-top: 8px
+  }
+
+  &:active {
+    margin-top: 9px
+  }
+
+  &.btn-sm {
+    &:hover {
+      margin-top: 11px
+    }
+
+    &:active {
+      margin-top: 12px
+    }
+  }
+
+  &.btn-xs {
+    &:hover {
+      margin-top: 15px
+    }
+
+    &:active {
+      margin-top: 16px
+    }
+  }
+}
+
+.btn-group-vertical {
+  .btn + .btn {
+    &:hover {
+      border-top-width: 1px;
+    }
+
+    &:active {
+      border-top-width: 2px;
+    }
+  }
+}
+
+// Typography =================================================================
+
+.text-primary,
+.text-primary:hover {
+  color: variables.$brand-primary;
+}
+
+.text-success,
+.text-success:hover {
+  color: variables.$brand-success;
+}
+
+.text-danger,
+.text-danger:hover {
+  color: variables.$brand-danger;
+}
+
+.text-warning,
+.text-warning:hover {
+  color: variables.$brand-warning;
+}
+
+.text-info,
+.text-info:hover {
+  color: variables.$brand-info;
+}
+
+// Tables =====================================================================
+
+table,
+.table {
+
+  a:not(.btn) {
+    text-decoration: underline;
+  }
+
+  .dropdown-menu a {
+    text-decoration: none;
+  }
+
+  .success,
+  .warning,
+  .danger,
+  .info {
+    color: #fff;
+
+    a:not(.btn) {
+      color: #fff;
+    }
+  }
+
+  &:not(.table-bordered) {
+    > thead > tr > th,
+    > tbody > tr > th,
+    > tfoot > tr > th,
+    > thead > tr > td,
+    > tbody > tr > td,
+    > tfoot > tr > td {
+      border-color: transparent;
+    }
+  }
+}
+
+// Forms ======================================================================
+
+.form-control {
+  @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.075));
+}
+
+label {
+  font-weight: normal;
+}
+
+.has-warning {
+  .help-block,
+  .control-label,
+  .radio,
+  .checkbox,
+  .radio-inline,
+  .checkbox-inline,
+  &.radio label,
+  &.checkbox label,
+  &.radio-inline label,
+  &.checkbox-inline label,
+  .form-control-feedback {
+    color: variables.$brand-warning;
+  }
+
+  .form-control,
+  .form-control:focus {
+    border: 1px solid variables.$brand-warning;
+    @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.075));
+  }
+
+  .input-group-addon {
+    border: 1px solid variables.$brand-warning;
+  }
+}
+
+.has-error {
+  .help-block,
+  .control-label,
+  .radio,
+  .checkbox,
+  .radio-inline,
+  .checkbox-inline,
+  &.radio label,
+  &.checkbox label,
+  &.radio-inline label,
+  &.checkbox-inline label,
+  .form-control-feedback {
+    color: variables.$brand-danger;
+  }
+
+  .form-control,
+  .form-control:focus {
+    border: 1px solid variables.$brand-danger;
+    @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.075));
+  }
+
+  .input-group-addon {
+    border: 1px solid variables.$brand-danger;
+  }
+}
+
+.has-success {
+  .help-block,
+  .control-label,
+  .radio,
+  .checkbox,
+  .radio-inline,
+  .checkbox-inline,
+  &.radio label,
+  &.checkbox label,
+  &.radio-inline label,
+  &.checkbox-inline label,
+  .form-control-feedback {
+    color: variables.$brand-success;
+  }
+
+  .form-control,
+  .form-control:focus {
+    border: 1px solid variables.$brand-success;
+    @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.075));
+  }
+
+  .input-group-addon {
+    border: 1px solid variables.$brand-success;
+  }
+}
+
+// Navs =======================================================================
+
+.nav {
+  .open > a,
+  .open > a:hover,
+  .open > a:focus {
+    border-color: transparent;
+  }
+}
+
+.nav-tabs {
+
+  > li > a {
+    margin-top: 6px;
+    border-color: variables.$navbar-default-border;
+    color: variables.$gray-dark;
+    @include vendor-prefixes.transition(all 0.2s ease-in-out);
+  }
+
+  > li > a:hover,
+  > li > a:focus,
+  > li.active > a,
+  > li.active > a:hover,
+  > li.active > a:focus,
+  .open > a,
+  .open > a:hover,
+  .open > a:focus {
+    padding-bottom: (variables.$padding-large-vertical + 3);
+    margin-top: 0;
+  }
+
+  .open > a,
+  .open > a:hover,
+  .open > a:focus {
+    border-color: variables.$navbar-default-border;
+  }
+
+  > li.disabled > a:hover,
+  > li.disabled > a:focus {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 6px;
+  }
+
+  &.nav-justified > li {
+    vertical-align: bottom;
+  }
+}
+
+.dropdown-menu {
+  margin-top: 0;
+  @include shadow();
+  border-top-width: 1px;
+  @include vendor-prefixes.box-shadow(none);
+}
+
+.breadcrumb {
+  border-color: color.adjust(variables.$breadcrumb-bg, $lightness: -5%);
+  border-style: solid;
+  @include shadow();
+}
+
+.pagination,
+.pager {
+
+  > li > a,
+  > li > span {
+    position: relative;
+    top: 0;
+    @include shadow();
+    color: variables.$pagination-color;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    &:hover {
+      top: 1px;
+      border-bottom-width: 3px;
+    }
+
+    &:active {
+      top: 2px;
+      border-bottom-width: 2px;
+    }
+  }
+
+  > .disabled > a,
+  > .disabled > span {
+
+    &:hover {
+      top: 0;
+      @include shadow();
+    }
+
+    &:active {
+      top: 0;
+      @include shadow();
+    }
+  }
+}
+
+.pager {
+
+  > li > a,
+  > li > span,
+  > .disabled > a,
+  > .disabled > span {
+
+    &,
+    &:hover,
+    &:active {
+      border-left-width: 2px;
+      border-right-width: 2px;
+    }
+  }
+}
+
+// Indicators =================================================================
+
+.close {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.4;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    opacity: 1;
+  }
+}
+
+.alert {
+  @include shadow();
+
+  .alert-link {
+    font-weight: normal;
+    color: #fff;
+    text-decoration: underline;
+  }
+}
+
+.label {
+  font-weight: normal;
+}
+
+// Progress bars ==============================================================
+
+.progress {
+  border: 1px solid variables.$navbar-default-border;
+  @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.1));
+
+  &-bar {
+    @include vendor-prefixes.box-shadow(inset 0 -4px 0 rgba(0, 0, 0, 0.15));
+  }
+}
+
+// Containers =================================================================
+
+.well {
+  border: 1px solid variables.$navbar-default-border;
+  @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.05));
+}
+
+a.list-group-item {
+
+  &.active,
+  &.active:hover,
+  &.active:focus {
+    border-color: variables.$list-group-border;
+  }
+
+  &-success {
+    &.active {
+      background-color: variables.$state-success-bg;
+    }
+
+    &.active:hover,
+    &.active:focus {
+      background-color: color.adjust(variables.$state-success-bg, $lightness: -5%);
+    }
+  }
+
+  &-warning {
+    &.active {
+      background-color: variables.$state-warning-bg;
+    }
+    
+    &.active:hover,
+    &.active:focus {
+      background-color: color.adjust(variables.$state-warning-bg, $lightness: -5%);
+    }
+  }
+
+  &-danger {
+    &.active {
+      background-color: variables.$state-danger-bg;
+    }
+    
+    &.active:hover,
+    &.active:focus {
+      background-color: color.adjust(variables.$state-danger-bg, $lightness: -5%);
+    }
+  }
+}
+
+.jumbotron {
+  border: 1px solid variables.$navbar-default-border;
+  @include vendor-prefixes.box-shadow(inset 0 2px 0 rgba(0, 0, 0, 0.05));
+}
+
+.panel {
+  border: 1px solid variables.$navbar-default-border;
+  @include shadow();
+
+  &-default {
+    .close {
+      color: variables.$text-color;
+    }
+  }
+}
+
+.modal {
+  .close {
+    color: variables.$text-color;
+  }
+}
+
+.popover {
+  color: variables.$text-color;
+}
