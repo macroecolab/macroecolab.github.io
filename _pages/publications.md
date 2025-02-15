@@ -53,9 +53,17 @@ permalink: /publications/
 
 
 ## Full List of Publications
-
+<ol reversed>
 {% for publi in site.data.publist %}
-- **[{{ publi.title }}]({{ publi.link.url }})**  
-  {{ publi.authors }} <em>{{ publi.journal }}</em>, <b>{{publi.volume}}</b>: {{publi.issue}}, {{ publi.pages }}
+  {% if publi.volume == "" %}
+    {% if publi.early == 1 %}
+      <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Early Access.</li>
+    {% endif %}
+    {% if publi.preprint == 1 %}
+      <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Preprint.</li>
+    {% endif %}
+  {% else %}
+    <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, <b>{{publi.volume}}</b>: {{publi.issue}}, {{ publi.pages }}.</li>
+  {% endif %}
 {% endfor %}
 

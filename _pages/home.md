@@ -22,22 +22,22 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="images/slider/hanami.jpg" alt="Slide 1" />
+            <img src="images/slider/Asset 1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="images/slider/minamisanriku.jpg" alt="Slide 2" />
+            <img src="images/slider/Asset 2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="images/slider/sciadv2022.jpg" alt="Slide 3" />
+            <img src="images/slider/Asset 3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="images/slider/rspb2023.jpg" alt="Slide 4" />
+            <img src="images/slider/Asset 4.png" alt="Slide 4" />
         </div>       
          <div class="item">
-            <img src="images/slider/tree2024.jpg" alt="Slide 5" />
+            <img src="images/slider/Asset 5.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="images/slider/maxent.jpg" alt="Slide 6" />
+            <img src="images/slider/Asset 6.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
