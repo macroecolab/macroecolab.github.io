@@ -11,4 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from"
   gem "jekyll-feed"
   gem "jekyll-last-modified-at"
+  gem 'nokogiri'
+  gem 'rack', '~> 2.2.4'
+  gem 'rspec'
 end

@@ -1,0 +1,440 @@
+
+- title: "Achieving higher standards in species distribution modeling by leveraging the diversity of available software"
+  year: 2024
+  image: ecog2024.jpg
+  description: "Which R package should I use for species distribution modeling? The answer is many of them, together. We assessed the wide variety of R packages for species distribution models and highlighted how they can work together to improve methodological standards and diversify analyses. We also introduce the new R package ‘sdmverse' to catalog metadata for packages and visualize their relationships."
+  authors: "<b>Kass, J. M.</b>, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A., Zurell, D."
+  journal: "Ecography"
+  volume: 2025
+  issue: 2
+  pages: "e07346"
+  link:
+    url: "https://doi.org/10.1111/ecog.07346"
+    display: "Ecography, e07346 (2024)"
+  highlight: 1
+  
+
+- title: "Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton"
+  year: 2024
+  description: "This study investigates the different factors that determine taxon-based and trait-based community structures in zooplankton. The field test results provide insights into ecological processes shaping community diversity and distribution patterns."
+  authors: "<b>Suzuki, H.</b>, Ichiyanagi, H., <b>Kass, J. M.</b>, <b>Urabe, J.</b>"
+  journal: "Limnology and Oceanography"
+  pages: 113-127
+  volume: 70
+  issue: 1
+  link:
+    url: "https://doi.org/10.1002/lno.12744"
+    display: "Limnology and Oceanography"
+  highlight: 0
+  
+
+- title: "Software codesign between end users and developers to enhance utility for biodiversity conservation"
+  year: 2024
+  description: "This paper discusses the collaboration between end users and developers in biodiversity conservation software development, exploring the advantages of co-design to better meet conservation needs."
+  authors: "Blair, M. E., Noguera-Urbano, E. A., Ochoa-Quintero, J. M., Paz, A., Lopez-Gallego, C., Echeverry-Galvis, M. Á., Zuloaga, J., Rodríguez, P., Lemus-Mejia, L., Ersts, P., López-Lozano, D. F., Aiello-Lammens, M. E., Arango, H. M., Buitrago, L., Chang Triguero, S., Cruz-Rodríguez, C. A., Díaz-Nieto, J. F., Escobar, D., Grisales-Betancur, V., Johnson, B. A., <b>Kass, J. M.</b>, Londoño-Murcia, M. C., Merow, C., Muñoz-Rodríguez, C. J., Olaya-Rodríguez, M. H., Anderson, R. P."
+  journal: "BioScience"
+  volume: 74
+  issue: 12
+  pages: "biae097"
+  link:
+    url: "https://doi.org/10.1093/biosci/biae097"
+    display: "BioScience, biae097 (2024)"
+  highlight: 0
+  
+- title: "Code sharing in ecology and evolution increases citation rates but remains uncommon"
+  year: 2024
+  description: "This paper analyzes the impact of code sharing in ecology and evolution on citation rates and highlights the low frequency of such practices despite the clear benefits."
+  authors: "Maitner, B., Santos Andrade, P. E., Lei, L., <b>Kass, J.</b>, Owens, H. L., Barbosa, G. C. G., Boyle, B., Castorena, M., Enquist, B. J., Feng, X., Park, D. S., Paz, A., Pinilla-Buitrago, G., Merow, C., Wilson, A."
+  journal: "Ecology and Evolution"
+  volume: 14
+  issue: 8
+  pages: "e70030"
+  link:
+    url: "https://doi.org/10.1002/ece3.70030"
+    display: "Ecology and Evolution, 14, e70030 (2024)"
+  highlight: 0
+
+- title: "Common ant species dominate morphospace: unraveling the morphological diversity in the Brazilian Amazon Basin"
+  year: 2024
+  description: "This study examines the morphological diversity of common ant species in the Brazilian Amazon Basin, shedding light on how dominant species shape the morphospace."
+  authors: "Andrade‐Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., <b>Kass, J. M.</b>, Warren, D. L., Silva, R. R."
+  journal: "Ecography"
+  volume: 2024
+  issue: 11
+  pages: "e07121"
+  link:
+    url: "https://doi.org/10.1111/ecog.07121"
+    display: "Ecography, e07121 (2024)"
+  highlight: 0
+
+- title: "Global biogeographic regions for ants have complex relationships with those for plants and tetrapods"
+  year: 2024
+  description: "This study explores the global biogeographic regions for ants and their complex relationships with those for plants and tetrapods, revealing significant patterns in biodiversity distribution."
+  authors: "Wang, R., <b>Kass, J. M.</b>, Chaudhary, C., Economo, E. P., Guénard, B."
+  journal: "Nature Communications"
+  volume: 15
+  issue: 1
+  pages: "5641"
+  link:
+    url: "https://doi.org/10.1038/s41467-024-49918-2"
+    display: "Nature Communications, 15(1), 5641 (2024)"
+  highlight: 0
+
+- title: "Biodiversity modeling advances will improve predictions of nature’s contributions to people"
+  year: 2024
+  image: tree2024.jpg
+  description: "We explain how the latest advancements in biodiversity modeling can improve predictions related to nature's contributions to people. Includes examples of potential implementations and discusses implications for conservation and policy."
+  authors: "<b>Kass, J. M.</b>, Fukaya, K., Thuiller, W., Mori, A. S."
+  journal: "Trends in Ecology and Evolution"
+  volume: 39
+  issue: 4
+  pages: "338–348"
+  link:
+    url: "https://doi.org/10.1016/j.tree.2023.10.011"
+    display: "Trends in Ecology and Evolution, 39(4), 338–348 (2024)"
+  highlight: 1
+  news1: "Press Releases: <a href='https://www.tohoku.ac.jp/en/press/cuttingedge_biodiversity_models_help_assess_natures_vital_contribution_to_people.html'>Tohoku University</a>, <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-51687.html'>Tohoku University Graduate School of Life Sciences</a>"
+
+- title: "Breakdown in seasonal dynamics of ant communities with land-cover change"
+  year: 2023
+  image: roysci2023.jpg
+  description: "Using two years of biweekly ant community surveys for 24 sites spanning an historical land-use gradient on Okinawa Island, we found that the seasonal activity patterns of ant communities were increasingly diminished as forest shifted to urban and agricultural land-use."
+  authors: "<b>Kass, J. M.</b>, Yoshimura, M., Ogasawara, M., Suwabe, M., Hita Garcia, F., Fischer, G., Dudley, K. L., Donohue, I., & Economo, E. P."
+  journal: "Proceedings of the Royal Society B: Biological Sciences"
+  volume: 290
+  pages: "20231185"
+  link:
+    url: "https://doi.org/10.1098/rspb.2023.1185"
+    display: "Proceedings of the Royal Society B: Biological Sciences, 290, 20231185"
+  highlight: 1
+  news1: "Press Release: <a href='https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes'>OIST</a>"
+ 
+
+- title: "Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico"
+  year: 2023
+  description: "..."
+  authors: "Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A., Pérez-Alquicira, J."
+  journal: "Animal Conservation"
+  volume: ""
+  early: 1
+  link:
+    url: "https://doi.org/10.1111/acv.12907"
+  category: "Academic Media"
+
+- title: "Global determinants of insect mitochondrial genetic diversity"
+  year: 2023
+  description: "..."
+  authors: "French, C. M., Bertola, L. D., Carnaval, A. C., Economo, E. P., <b>Kass, J. M.</b>, Lohman, D. J., Marske, K. A., Meier, R., Overcast, I., Rominger, A. J., Staniczenko, P., & Hickerson, M. J."
+  journal: "Nature Communications"
+  volume: 14
+  pages: 5276
+  link:
+    url: "https://doi.org/10.1038/s41467-023-40936-0"
+    display: "Nature Communications, 14, 5276"
+  category: "Academic Media"
+
+- title: "Better incentives are needed to reward academic software development"
+  year: 2023
+  description: "..."
+  authors: "Merow, C., Boyle, B., Enquist, B. J., Feng, X., <b>Kass, J. M.</b>, Maitner, B. S., McGill, B., Owens, H., Park, D. S., Paz, A., Pinilla-Buitrago, G. E., Urban, M. C., Varela, S., & Wilson, A. M."
+  journal: "Nature Ecology & Evolution"
+  volume: 7
+  pages: "626-627"
+  link:
+    url: "https://doi.org/10.1038/s41559-023-02008-w"
+    display: "Nature Ecology & Evolution, 7, 626-627"
+  category: "Academic Media"
+
+- title: "wallace 2: a shiny app for modeling species niches and distributions redesigned to facilitate expansion via module contributions"
+  year: 2023
+  description: "..."
+  authors: "<b>Kass, J. M.</b>, Pinilla-Buitrago, G. E., Paz, A., Johnson, B. A., Grisales-Betancur, V., Meenan, S. I., Attali, D., Broennimann, O., Galante, P. J., Maitner, B. S., Owens, H. L., Varela, S., Aiello‐Lammens, M. E., Merow, C., Blair, M. E., & Anderson, R. P."
+  journal: "Ecography"
+  issue: "e06547"
+  link:
+    url: "https://doi.org/10.1111/ecog.06547"
+    display: "Ecography, e06547"
+  category: "Academic Media"
+
+- title: "Geographic and climatic constraints on bioregionalization of European ants"
+  year: 2023
+  description: "..."
+  authors: "Wang, R., <b>Kass, J. M.</b>, Galkowski, C., Garcia, F., Hamer, M. T., Radchenko, A., Salata, S., Schifani, E., Yusupov, Z. M., Economo, E. P., & Guénard, B."
+  journal: "Journal of Biogeography"
+  pages: "503-514"
+  link:
+    url: "https://doi.org/10.1111/jbi.14546"
+    display: "Journal of Biogeography, 503-514"
+  category: "Academic Media"
+
+- title: "Dynamic distribution modeling of the Swamp Tigertail dragonfly Synthemis eustalacta over a 20-year bushfire regime"
+  year: 2023
+  description: "..."
+  authors: "Goodman, A. M., <b>Kass, J. M.</b>, & Ware, J."
+  journal: "Ecological Entomology"
+  volume: 48
+  pages: "209-225"
+  link:
+    url: "https://doi.org/10.1111/een.13216"
+    display: "Ecological Entomology, 48: 209-225"
+  category: "Academic Media"
+
+- title: "changeRangeR: an R package for reproducible biodiversity change metrics from species distribution estimates"
+  year: 2023
+  description: "..."
+  authors: "Galante, P. J., Chang, S., Paz, A., Aiello-Lammens, M. E., Gerstner, B. E., Johnson, B. A., <b>Kass, J. M.</b>, Merow, C., Noguera-Urbano, E. A., Pinilla-Buitrago, G. E., & Blair, M. E."
+  journal: "Conservation Science and Practice"
+  volume: 5
+  link:
+    url: "https://doi.org/10.1111/csp2.12863"
+    display: "Conservation Science and Practice, 5: e12863"
+  category: "Academic Media"
+  
+- title: "Incorporating sampling bias into permutation tests for niche and distribution models"
+  year: 2022
+  description: "A study on integrating sampling bias into permutation tests to enhance niche and distribution modeling."
+  authors: "Warren, D. L., <b>Kass, J. M.</b>, Casadei-Ferreira, A., & Economo, E. P."
+  journal: "BioRxiv"
+  volume: ""
+  preprint: 1
+  issue: "2022.08.08.503252"
+  link:
+    url: "https://doi.org/10.1101/2022.08.08.503252"
+    display: "BioRxiv, 2022.08.08.503252"
+
+- title: "Randomization analyses in niche and distribution modeling"
+  year: 2022
+  description: "Explores the application of randomization analyses to improve niche and distribution modeling."
+  authors: "Warren, D. L., <b>Kass, J. M.</b>, & Economo, E. P."
+  journal: "EcoEvoXiv"
+  volume: ""
+  preprint: 1
+  link:
+    url: "https://doi.org/10.32942/osf.io/ckspq"
+    display: "EcoEvoXiv, 2022-09-01 12:50"
+
+- title: "The global distribution of known and undiscovered ant biodiversity"
+  year: 2022
+  image: sciadv2022.jpg
+  description: "We employed an extensive ant occurrence database and species distribution modeling to map global patterns of ant biodiversity at relatively high resolution. We also estimated areas of unknown diversity using machine learning that highlight regions for future sampling to discover new species."
+  authors: "<b>Kass, J. M.</b>, Guénard, B., Dudley, K. L., Jenkins, C. N., Azuma, F., Fisher, B. L., Parr, C. L., Gibb, H., Longino, J. T., Ward, P. S., Chao, A., Lubertazzi, D., Weiser, M., Jetz, W., Guralnick, R., Blatrix, R., Lauriers, J. D., Donoso, D. A., Georgiadis, C., Gomez, K., Hawkes, P. G., Johnson, R. A., Lattke, J. E., MacGown, J. A., MacKay, W., Robson, S., Sanders, N. J., Dunn, R. R., & Economo, E. P."
+  journal: "Science Advances"
+  volume: 8
+  issue: "eabp9908"
+  link:
+    url: "https://doi.org/10.1126/sciadv.abp9908"
+    display: "Science Advances, 8: eabp9908"
+  news1: "Press Release: <a href='https://www.oist.jp/news-center/news/2022/8/4/new-global-map-ant-biodiversity-reveals-areas-may-hide-undiscovered-species'>OIST</a>"
+
+  highlight: 1    
+
+- title: "A large-scale assessment of ant diversity across the Brazilian Amazon Basin"
+  year: 2022
+  description: "Analyzes ant diversity across the Brazilian Amazon Basin, integrating geographic, ecological, and morphological factors."
+  authors: "Andrade-Silva, J., Baccaro, F. B., Prado, L. P., Guénard, B., Warren, D. L., <b>Kass, J. M.</b>, Economo, E. P., & Silva, R. R."
+  journal: "Ecography"
+  volume: 9
+  issue: "e06295"
+  link:
+    url: "https://doi.org/10.1111/ecog.06295"
+    display: "Ecography, 9: e06295"
+
+- title: "Linking ecological niche models and common garden experiments to predict phenotypic differentiation in stressful environments"
+  year: 2022
+  description: "Links ecological niche models with common garden experiments to predict phenotypic differentiation in alpine plants."
+  authors: "Morente-López, J., <b>Kass, J. M.</b>, Lara-Romero, C., Serra-Diaz, J. M., Soto-Correa, J. C., Anderson, R. P., & Iriondo, J. M."
+  journal: "Global Change Biology"
+  volume: 28
+  pages: "4143-4162"
+  link:
+    url: "https://doi.org/10.1111/gcb.16181"
+    display: "Global Change Biology, 28: 4143 - 4162"
+
+- title: "Operationalizing expert knowledge in species' range estimates using diverse data types"
+  year: 2022
+  description: "Operationalizes expert knowledge in species range estimates, combining multiple data types for more accurate predictions."
+  authors: "Merow, C., Galante, P. J., <b>Kass, J. M.</b>, Aiello-Lammens, M. E., Babich Morrow, C., Gerstner, B. E., Grisales-Betancur, V., Moore, A. C., Noguera-Urbano, E. A., Buitrago-Pinilla, G. E., Velásquez-Tibatá, Anderson, R. P., & Blair, M. E."
+  journal: "Frontiers of Biogeography"
+  volume: 14.2
+  issue: "e53589"
+  link:
+    url: "http://dx.doi.org/10.21425/F5FBG53589"
+    display: "Frontiers of Biogeography, 14.2: e53589"
+
+- title: "ENM2020: A free online course and set of resources on modeling species niches and distributions"
+  year: 2022
+  description: "A resource for learning how to model species niches and distributions, including an online course and various tools."
+  authors: "Peterson, A. T., Aiello-Lammens, M. E., Amatulli, G., Anderson, R. P., Cobos, M. E., Diniz-Filho, J. A. F., Escobar, L. E., Feng, X., Franklin, J., Gadelha Jr., L. M. R., Georges, D., Guéguen, M., Gueta, T., Ingenloff, K., Jarvie, S., Jiménez, L., Karger, D. N., <b>Kass, J. M.</b>, Kearney, M. R., Loyola, R., Machado-Stredel, F., Martínez-Meyer, E., Merow, C., Mondelli, M. L., Mortara, S. B., Muscarella, R., Myers, C. E., Naimi, B., Noesgaard, D., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pearson, R., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Saupe, E. E., Thuiller, W., Varela, S., Warren, D. L., Wieczorek, J., Yates, K., Zhu, G., Zuquim, G., & Zurell, D."
+  journal: "Biodiversity Informatics"
+  volume: 17
+  pages: "1-5"
+  link:
+    url: "https://doi.org/10.17161/bi.v17i.15016"
+    display: "Biodiversity Informatics, 17: 1-5"
+
+- title: "Improving forecasts of community composition with lightweight biodiversity monitoring across ecological and anthropogenic disturbance gradients"
+  year: 2022
+  description: "Proposes using lightweight monitoring to improve biodiversity forecasting across diverse ecological and anthropogenic disturbance gradients."
+  authors: "<b>Kass, J. M.</b>, Takashina, N., Friedman, N. R., Kusumoto, B., & Blair, M. E."
+  journal: "Ecological Research"
+  volume: 37
+  pages: "466-470"
+  link:
+    url: "https://doi.org/10.1111/1440-1703.12294"
+    display: "Ecological Research, 37: 466 - 470"
+    
+- title: "occCite: Tools for querying and managing large biodiversity occurrence datasets"
+  authors: "Owens, H. L., Merow, C., Maitner, B., <b>Kass, J. M.</b>, Barve, V., & Guralnick, R."
+  year: 2021
+  journal: "Ecography"
+  volume: 44
+  pages: "1228 – 1235"
+  link: "https://doi.org/10.1111/ecog.05618"
+
+- title: "Intraspecific genetic variation matters when predicting seagrass distribution under climate change"
+  authors: "Hu, Z. M., Zhang, Q. S., Zhang, J., <b>Kass, J. M.</b>, Mammola, S., Fresia, P., Draisma, S. G. A., Assis, J., Jueterbock, A., Yokota, M., & Zhang, Z."
+  year: 2021
+  journal: "Molecular Ecology"
+  volume: 30
+  pages: "3840 – 3855"
+  link: "https://doi.org/10.1111/mec.15996"
+
+- title: "ENMeval 2.0: redesigned for customizable and reproducible modeling of species’ niches and distributions"
+  authors: "<b>Kass, J. M.</b>, Muscarella, R., Galante, P. J., Bohl, C., Pinilla-Buitrago, G. E., Boria, R. A., Soley‐Guardia, M., & Anderson, R. P."
+  year: 2021
+  journal: "Methods in Ecology and Evolution"
+  volume: 12
+  pages: "1602 – 1608"
+  link: "https://doi.org/10.1111/2041-210X.13628"
+
+- title: "Temporal matching of occurrence localities and forest cover data helps improve range estimates and predict climate change vulnerabilities"
+  authors: "Gavrutenko, M., Gerstner, B. E., <b>Kass, J. M.</b>, Goodman, S., & Anderson, R. P."
+  year: 2021
+  journal: "Global Ecology and Conservation"
+  volume: 27
+  pages: "e01569"
+  link: "https://doi.org/10.1016/j.gecco.2021.e01569"
+
+- title: "Lineage‐level distribution models lead to more realistic climate change predictions for a threatened crayfish"
+  authors: "Zhang, Z., <b>Kass, J. M.</b>, Mammola, S., Koizumi, I., Li, X., Tanaka, K., Ikeda, K., Suzuki, T., Yokota, M., & Usio, N."
+  year: 2021
+  journal: "Diversity and Distributions"
+  volume: 27
+  pages: "684 – 695"
+  link: "https://doi.org/10.1111/ddi.13225"
+
+- title: "Improving area of occupancy estimates for parapatric species using distribution models and support vector machines"
+  authors: "<b>Kass, J. M.</b>, Meenan, S. I., Tinoco, N., Burneo, S. F., & Anderson, R. P."
+  year: 2021
+  journal: "Ecological Applications"
+  volume: 31
+  pages: "e02228"
+  link: "https://doi.org/10.1002/eap.2228"
+
+- title: "Explainable artificial intelligence enhances the ecological interpretability of black‐box species distribution models"
+  authors: "Ryo, M., Angelov, B., Mammola, S., <b>Kass, J. M.</b>, Benito, B. M., & Hartig, F."
+  year: 2021
+  journal: "Ecography"
+  volume: 44
+  pages: "199-205"
+  link: "https://doi.org/10.1111/ecog.05360"
+  
+- title: "Co-occurrence of invasive and native carnivorans affects occupancy patterns across environmental gradients"
+  authors: "<b>Kass, J. M.</b>, Tingley, M. W., Tetsuya, T., & Koike, F."
+  year: 2020
+  journal: "Biological Invasions"
+  volume: 22
+  pages: "2251 – 2266"
+  link: "https://doi.org/10.1007/s10530-020-02254-0"
+
+- title: "Biotic predictors with phenological information improve range estimates for migrating monarch butterflies in Mexico"
+  authors: "<b>Kass, J. M.</b>, Anderson, R. P., Espinosa‐Lucas, A., Juárez‐Jaimes, V., Martínez‐Salas, E., Botello, F., Taverna, G., Flores-Martínez, J. J., & Sánchez‐Cordero, V."
+  year: 2020
+  journal: "Ecography"
+  volume: 43
+  issue: 3
+  pages: "341-352"
+  note: "Editor's Choice"
+  link: "https://doi.org/10.1111/ecog.04886"
+
+- title: "Species' range model metadata standards: RMMS"
+  authors: "Merow, C., Maitner, B. S., Owens, H. L., <b>Kass, J. M.</b>, Enquist, B. J., Jetz, W., & Guralnick, R."
+  year: 2019
+  journal: "Global Ecology and Biogeography"
+  volume: 28
+  issue: 12
+  pages: "1912-1924"
+  link: "https://doi.org/10.1111/geb.12993"
+
+- title: "A new null model approach to quantify performance and significance for ecological niche models of species distributions"
+  authors: "Bohl, C. L., <b>Kass, J. M.</b>, & Anderson, R. P."
+  year: 2019
+  journal: "Journal of Biogeography"
+  volume: 46
+  issue: 6
+  pages: "1101-1111"
+  note: "Editor's Choice"
+  link: "https://doi.org/10.1111/jbi.13573"
+
+- title: "Disentangling the genetic effects of refugial isolation and range expansion in a trans-continentally distributed species"
+  authors: "Reid, B. N., <b>Kass, J. M.</b>, Wollney, S., Jensen, E. L., Russello, M. A., Viola, E. M., Pantophlet, J., Iverson, J. B., Peery, M. Z., Raxworthy, C. J., & Naro-Maciel, E."
+  year: 2019
+  journal: "Heredity"
+  volume: 122
+  issue: 4
+  pages: "441-457"
+  link: "https://doi.org/10.1038/s41437-018-0135-5"
+
+- title: "Wallace: A flexible platform for reproducible modeling of species niches and distributions built for community expansion"
+  authors: "<b>Kass, J. M.</b>, Vilela, B., Aiello‐Lammens, M. E., Muscarella, R., Merow, C., & Anderson, R. P."
+  year: 2018
+  journal: "Methods in Ecology and Evolution"
+  volume: 9
+  issue: 4
+  pages: "1151-1156"
+  link: "https://doi.org/10.1111/2041-210X.12945"
+
+- title: "Revised distributional estimates for the recently discovered olinguito (Bassaricyon neblina), with comments on natural and taxonomic history"
+  authors: "Gerstner, B. E., <b>Kass, J. M.</b>, Kays, R., Helgen, K. M., & Anderson, R. P."
+  year: 2018
+  journal: "Journal of Mammalogy"
+  volume: 99
+  issue: 2
+  pages: "321-332"
+  link: "https://doi.org/10.1093/jmammal/gyy012"
+
+- title: "Toward ecologically realistic predictions of species distributions: A cross‐time example from tropical montane cloud forests"
+  authors: "Guevara, L., Gerstner, B. E., <b>Kass, J. M.</b>, & Anderson, R. P."
+  year: 2018
+  journal: "Global Change Biology"
+  volume: 24
+  issue: 4
+  pages: "1511-1522"
+  link: "https://doi.org/10.1111/gcb.13992"
+
+- title: "ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models"
+  authors: "Muscarella, R., Galante, P. J., Soley‐Guardia, M., Boria, R. A., <b>Kass, J. M.</b>, Uriarte, M., & Anderson, R. P."
+  year: 2014
+  journal: "Methods in Ecology and Evolution"
+  volume: 5
+  issue: 11
+  pages: "1198-1205"
+  link: "https://doi.org/10.1111/2041-210X.12261"
+
+- title: "Polychlorinated biphenyls in the exterior caulk of San Francisco Bay Area buildings, California, USA"
+  authors: "Klosterhaus, S., McKee, L. J., Yee, D., <b>Kass, J. M.</b>, & Wong, A."
+  year: 2014
+  journal: "Environment International"
+  volume: 66
+  pages: "38-43"
+  link: "https://doi.org/10.1016/j.envint.2014.01.008"
+
+- title: "Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion"
+  authors: "Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., Kass, J., Koopman, M. E., & Allnutt, T. F."
+  year: 2012
+  journal: "Natural Areas Journal"
+  volume: 32
+  issue: 1
+  pages: "65-74"
+  link: "https://doi.org/10.3375/043.032.0108"
+
