@@ -5,7 +5,17 @@ excerpt: "Macroecology Lab - Photos"
 permalink: /pictures/
 ---
 
-### Wildlife monitoring using camera traps
+### 72nd Ecological Society of Japan Meeting, Sapporo (Mar 2025)
+<div markdown="0" class="grid-container">
+  <div>
+    All our graduate students presented posters, and Kass and Miranda gave oral presentations at this meeting. Kass also gave a quick talk at an open symposium on building R packages and served as a mentor at the Moai student support event. Here are some photos from the conference.
+  </div>
+  <div>
+    <img src="/images/photos/esj72_front.jpg" padding="0 10 px" width="600px" height="auto" margin-left="100 px">
+  </div>
+</div>
+
+### Wildlife monitoring using camera traps (Fall 2024)
 <div markdown="0" class="grid-container">
   <div>
     <img src="/images/photos/monitoring_montage.jpg" padding="10 px 0" width="600px" height="auto" margin-right="100 px">

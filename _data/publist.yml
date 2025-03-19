@@ -1,6 +1,6 @@
 
 - title: "Achieving higher standards in species distribution modeling by leveraging the diversity of available software"
-  year: 2024
+  year: 2025
   image: ecog2024.jpg
   description: "Which R package should I use for species distribution modeling? The answer is many of them, together. We assessed the wide variety of R packages for species distribution models and highlighted how they can work together to improve methodological standards and diversify analyses. We also introduce the new R package ‘sdmverse' to catalog metadata for packages and visualize their relationships."
   authors: "<b>Kass, J. M.</b>, Smith, A. B., Warren, D. L., Vignali, S., Schmitt, S., Aiello-Lammens, M. E., Arlé, E., Márcia Barbosa, A., Broennimann, O., Cobos, M. E., Guéguen, M., Guisan, A., Merow, C., Naimi, B., Nobis, M. P., Ondo, I., Osorio-Olvera, L., Owens, H. L., Pinilla-Buitrago, G. E., Sánchez-Tapia, A., Thuiller, W., Valavi, R., Velazco, S. J. E., Zizka, A., Zurell, D."
@@ -10,7 +10,7 @@
   pages: "e07346"
   link:
     url: "https://doi.org/10.1111/ecog.07346"
-    display: "Ecography, e07346 (2024)"
+    display: "Ecography, e07346 (2025)"
   highlight: 1
   news1: "Press Releases: <a href='https://www.tohoku.ac.jp/en/press/combining_software_tools_creates_higher_standards_in_species_distribution_modeling.html'>Tohoku University</a>, <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-52445.html'>Tohoku University Graduate School of Life Sciences</a>"
   

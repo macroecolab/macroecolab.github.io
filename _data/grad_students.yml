@@ -2,7 +2,7 @@
   photo: suzuki.jpg
   info: D1
   email:
-  education1: 
+  education1: MS Biology, Tohoku University, 2023
   focus: Limnology and ecology of zooplankton 
   research: Determinants of zooplankton community structure and dynamics using field studies, experiments, and data analysis
 
@@ -10,7 +10,7 @@
   photo: matthew.png
   info: M1
   email:
-  education1: BS Marine Biology, Dalhousie University, 2023
+  education1: BS Marine Biology, Dalhousie University
   focus: Marine conservation climate change 
   research: Ecology and conservation of Pacific sharks and rays, potential benefits of marine protected areas
 
@@ -18,7 +18,7 @@
   photo: megan.png
   info: M1
   email:
-  education1: University, 2023
+  education1: BS, Hong Kong University
   focus: Functional diversity of pollinating insects
   research: Predicting and mapping pollinator diversity and pollination service potential
 
@@ -26,7 +26,7 @@
   photo: nishida.jpg
   info: M1
   email:
-  education1: University, 2023
+  education1: BS, University, 2023
   focus: Impacts of human activity on biodiversity
   research: Relationships between traditional land use practices and species' distributions
   
@@ -34,7 +34,7 @@
   photo: takane.jpg
   info: M1
   email:
-  education1: Tohoku University, 2023
+  education1: BS Biology, Tohoku University
   focus: Ecology and evolution of monkeys
   research: Biogeography and phylogenetic patterns of the genus Macaca
   
@@ -42,6 +42,6 @@
   photo: zhang.jpg
   info: M1
   email:
-  education1: Niigata University, 2023
+  education1: BS Biology, Niigata University, 2023
   focus: Plant biogeography
-  research: Biogeography of color morphs for ???
+  research: Biogeography of color morphs for the spotted bellflower (ホタルブクロ)
