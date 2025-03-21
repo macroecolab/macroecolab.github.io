@@ -63,7 +63,7 @@ permalink: /publications/
       <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Preprint.</li>
     {% endif %}
   {% else %}
-    <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, <b>{{publi.volume}}</b>: {{publi.issue}}, {{ publi.pages }}.</li>
+    <li>{{ publi.authors }}. ({{ publi.year }}). <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, <b>{{publi.volume}}</b>: {{publi.issue}}, {{ publi.pages }}.</li>
   {% endif %}
 {% endfor %}
 
