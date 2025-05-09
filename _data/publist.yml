@@ -1,4 +1,28 @@
 
+- title: "Long-term human land-use change throughout Southeast Asia reshapes the distribution of suitable habitat for a human-commensal bird species"
+  year: 2025
+  authors: "Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K., Scordato, E. S. C."
+  journal: "Journal of Biogeography"
+  early: 1
+  volume: ""
+  issue: ""
+  pages: "e15123"
+  link:
+    url: "https://doi.org/10.1111/jbi.15123"
+  highlight: 0
+  
+- title: "Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences"
+  year: 2025
+  authors: "Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., & Lin, Q."
+  journal: "Conservation Biology"
+  early: 1
+  volume: ""
+  issue: ""
+  pages: "e70015"
+  link:
+    url: "https://doi.org/10.1111/cobi.70015"
+  highlight: 0
+
 - title: "Achieving higher standards in species distribution modeling by leveraging the diversity of available software"
   year: 2025
   image: ecog2024.jpg
@@ -14,6 +38,15 @@
   highlight: 1
   news1: "Press Releases: <a href='https://www.tohoku.ac.jp/en/press/combining_software_tools_creates_higher_standards_in_species_distribution_modeling.html'>Tohoku University</a>, <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-52445.html'>Tohoku University Graduate School of Life Sciences</a>"
   
+- title: "The Salto Morato Manifest for Conservation Translocations" 
+  authors: "Fernandez, F., Leuchtenberger, C., ... <b>Miranda, E.</b>, ..., Rheingantz, M."
+  year: 2024
+  journal: "Oryx"
+  issue: 58
+  volume: 3
+  pages: 283-283
+  link:
+    url: "https://doi.org/10.1017/S0030605324000231"
 
 - title: "Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton"
   year: 2024
@@ -27,7 +60,6 @@
     url: "https://doi.org/10.1002/lno.12744"
     display: "Limnology and Oceanography"
   highlight: 0
-  
 
 - title: "Software codesign between end users and developers to enhance utility for biodiversity conservation"
   year: 2024
@@ -67,6 +99,16 @@
     url: "https://doi.org/10.1111/ecog.07121"
     display: "Ecography, e07121 (2024)"
   highlight: 0
+  
+- title: "Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico"
+  year: 2024
+  authors: "Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A., Pérez-Alquicira, J."
+  journal: "Animal Conservation"
+  volume: 27
+  issue: 3
+  pages: 308-323
+  link:
+    url: "https://doi.org/10.1111/acv.12907"
 
 - title: "Global biogeographic regions for ants have complex relationships with those for plants and tetrapods"
   year: 2024
@@ -109,18 +151,6 @@
     display: "Proceedings of the Royal Society B: Biological Sciences, 290, 20231185"
   highlight: 1
   news1: "Press Release: <a href='https://www.oist.jp/news-center/news/2023/10/27/okinawas-ants-change-their-seasonal-rhythms-amid-land-cover-changes'>OIST</a>"
- 
-
-- title: "Genomic and environmental insights and conservation challenges for two hybridizing iconic crocodile species across Mexico"
-  year: 2023
-  description: "..."
-  authors: "Suárez-Atilano, M., Pacheco-Sierra, G., Vázquez-Domínguez, E., <b>Kass, J. M.</b>, Paz, A., Pérez-Alquicira, J."
-  journal: "Animal Conservation"
-  volume: ""
-  early: 1
-  link:
-    url: "https://doi.org/10.1111/acv.12907"
-  category: "Academic Media"
 
 - title: "Global determinants of insect mitochondrial genetic diversity"
   year: 2023
@@ -431,7 +461,7 @@
   link: "https://doi.org/10.1016/j.envint.2014.01.008"
 
 - title: "Climate change refugia for biodiversity in the Klamath-Siskiyou ecoregion"
-  authors: "Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., Kass, J., Koopman, M. E., & Allnutt, T. F."
+  authors: "Olson, D., DellaSala, D. A., Noss, R. F., Strittholt, J. R., <b>Kass, J.</b>, Koopman, M. E., & Allnutt, T. F."
   year: 2012
   journal: "Natural Areas Journal"
   volume: 32

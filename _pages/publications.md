@@ -57,13 +57,13 @@ permalink: /publications/
 {% for publi in site.data.publist %}
   {% if publi.volume == "" %}
     {% if publi.early == 1 %}
-      <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Early Access.</li>
+      <li>{{ publi.authors }} <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Early Access.</li>
     {% endif %}
     {% if publi.preprint == 1 %}
-      <li>{{ publi.authors }}. <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Preprint.</li>
+      <li>{{ publi.authors }} <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, Preprint.</li>
     {% endif %}
   {% else %}
-    <li>{{ publi.authors }}. ({{ publi.year }}). <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, <b>{{publi.volume}}</b>: {{publi.issue}}, {{ publi.pages }}.</li>
+    <li>{{ publi.authors }} ({{ publi.year }}). <a href="{{ publi.link.url }}">{{ publi.title }}</a>. <em>{{ publi.journal }}</em>, {{publi.volume}}: {{publi.issue}}, {{ publi.pages }}.</li>
   {% endif %}
 {% endfor %}
 
