@@ -38,18 +38,8 @@
   highlight: 1
   news1: "Press Releases: <a href='https://www.tohoku.ac.jp/en/press/combining_software_tools_creates_higher_standards_in_species_distribution_modeling.html'>Tohoku University</a>, <a href='https://www.lifesci.tohoku.ac.jp/en/date/detail---id-52445.html'>Tohoku University Graduate School of Life Sciences</a>"
   
-- title: "The Salto Morato Manifest for Conservation Translocations" 
-  authors: "Fernandez, F., Leuchtenberger, C., ... <b>Miranda, E.</b>, ..., Rheingantz, M."
-  year: 2024
-  journal: "Oryx"
-  issue: 58
-  volume: 3
-  pages: 283-283
-  link:
-    url: "https://doi.org/10.1017/S0030605324000231"
-
 - title: "Differences in factors determining taxon-based and trait-based community structures: a field test using zooplankton"
-  year: 2024
+  year: 2025
   description: "This study investigates the different factors that determine taxon-based and trait-based community structures in zooplankton. The field test results provide insights into ecological processes shaping community diversity and distribution patterns."
   authors: "<b>Suzuki, H.</b>, Ichiyanagi, H., <b>Kass, J. M.</b>, <b>Urabe, J.</b>"
   journal: "Limnology and Oceanography"
@@ -60,6 +50,16 @@
     url: "https://doi.org/10.1002/lno.12744"
     display: "Limnology and Oceanography"
   highlight: 0
+  
+- title: "The Salto Morato Manifest for Conservation Translocations" 
+  authors: "Fernandez, F., Leuchtenberger, C., ... <b>Miranda, E.</b>, ..., Rheingantz, M."
+  year: 2024
+  journal: "Oryx"
+  issue: 58
+  volume: 3
+  pages: 283-283
+  link:
+    url: "https://doi.org/10.1017/S0030605324000231"
 
 - title: "Software codesign between end users and developers to enhance utility for biodiversity conservation"
   year: 2024
