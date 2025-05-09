@@ -168,7 +168,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 ## Lab Alumni
 
 {% assign number_printed = 0 %}
-{% for member in site.data.visitors %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -179,10 +179,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  <i>{{ member.info }}</i> <br><i>Focus</i>: {{ member.focus }} <br> <i>Research</i>: {{member.research}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

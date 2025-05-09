@@ -4,8 +4,8 @@
   email: kass (at) tohoku.ac.jp
   number_educ: 3
   education1: PhD in Biology, City University of New York, 2019
-  education2: Masters of Environmental Management, Duke University, 2007
-  education3: Bachelors of Science in Biology, Bachelors of Arts in English, SUNY Binghamton, 2004
+  education2: Master of Environmental Management, Duke University, 2007
+  education3: Bachelor of Science in Biology, Bachelor of Arts in English, SUNY Binghamton, 2004
 
 - name: Everton Miranda
   photo: miranda.jpg
@@ -15,7 +15,16 @@
   education1: PhD in Ecology, University of KwaZulu-Natal, 2020
   education2: MSc in Ecology and Biodiversity Conservation, Mato Grosso Federal University
   education3: Degree in Environmental Law, Candido Mendes University
-  education4: Bachelors in Biological Sciences, Rio de Janeiro Federal University
+  education4: Bachelor in Biological Sciences, Rio de Janeiro Federal University
+  
+- name: Shiori Takeshige
+  photo: takeshige.png
+  info: Assistant Professor
+  email: shiori.takeshige.e5 (at) tohoku.ac.jp
+  number_educ: 3
+  education1: PhD in Arts and Sciences, The Open University of Japan, 2020
+  education2: MS in Arts and Sciences, The Open University of Japan, 2018
+  education3: Bachelor in Liberal Arts, The Open University of Japan, 2014
 
 - name: Jotaro Urabe
   photo: urabe.jpg
@@ -24,6 +33,6 @@
   number_educ: 3
   education1: PhD, Tokyo Metropolitan University, 1988
   education2: Master, Tokyo University of Fisheries, 1984
-  education3: Bachelors, Tokyo University of Fisheries, 1982
+  education3: Bachelor, Tokyo University of Fisheries, 1982
 
 

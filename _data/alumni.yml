@@ -1,0 +1,24 @@
+- name: So Kaneko
+  photo: kaneko.png
+  info: B4
+  email:
+  education1: 
+  focus: Threats from invasive fish 
+  research: Establishment risk and invasive distribution mapping of smallmouth bass in Japan
+
+- name: Kenshin Matsumoto
+  photo: kenshin.jpg
+  info: B4
+  email:
+  education1: 
+  focus: Interactions between humans and wildlife
+  research: Distribution of Japanese serow and potential shifts with climate change
+  
+- name: Takumi Yamaguchi
+  photo: yamaguchi.png
+  info: B4
+  email:
+  education1: 
+  focus: Fish ecology and biogeography 
+  research: Distribution of Japanese eel and associated human impacts
+  
