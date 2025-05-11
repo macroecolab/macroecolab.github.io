@@ -196,9 +196,10 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 ### Former Visiting Students
-<p>William Leighton Petty, Baylor University, JYPE Program, 2023-2024</p>
-<p>Erick Sanchez, University of California, San Diego, JYPE Program, 2024</p>
-<p>Anson Choi, University of California, San Diego, JYPE Program, 2024</p>
+<p>Kevin López-Reyes, UNAM, Mexico, PhD 3rd year, Jul 2024 - Dec 2024</p>
+<p>William Leighton Petty, Baylor University, USA, Undergrad, JYPE Program, Sep 2023 - Aug 2024</p>
+<p>Erick Sanchez, University of California, USA, San Diego, JYPE Program, Apr 2024 - Aug 2024</p>
+<p>Anson Choi, University of California, San Diego, USA, JYPE Program, Apr 2024 - Aug 2024</p>
 
 
 ## Administrative Support
