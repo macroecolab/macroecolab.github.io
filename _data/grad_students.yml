@@ -1,6 +1,6 @@
 - name: Hiromichi Suzuki
   photo: suzuki.jpg
-  info: D2
+  info: D2 (JSPS research fellow)
   email:
   education1: MS Biology, Tohoku University, 2023
   focus: Limnology and ecology of zooplankton 
@@ -47,7 +47,7 @@
   research: Biogeography of color morphs for the spotted bellflower (ホタルブクロ)
   
 - name: Akari Sarishi
-  photo: no_photo.png
+  photo: sarishi.png
   info: M1
   email:
   education1: BS Agriculture, Tohoku University, 2024
@@ -55,7 +55,7 @@
   research: 
 
 - name: Tsumugi Watanabe
-  photo: no_photo.png
+  photo: watanabe.jpg
   info: M1
   email:
   education1: BS Life Sciences, Chuo University, 2024
@@ -63,7 +63,7 @@
   research: 
   
 - name: Yi Shen
-  photo: no_photo.png
+  photo: shen.jpg
   info: M1
   email:
   education1: BS Environmental Science, Capital Normal University, 2024
