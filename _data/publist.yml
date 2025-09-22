@@ -1,8 +1,41 @@
+- title: "Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences"
+  year: 2025
+  authors: "Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., Lin, Q."
+  journal: "Conservation Biology"
+  volume: 39
+  issue: 4
+  pages: "e70015"
+  link: 
+    url: "https://doi.org/10.1111/cobi.70015"
+  
+
+- title: "Forecasting alien species establishment and source regions: Quantitative assessment of potential ant invasions in Japan"
+  year: 2025
+  authors: "Zurápiti, Y., <b>Kass, J. M.</b>, Guénard, B., Economo, E. P."
+  journal: "Ecological Applications"
+  volume: 35
+  issue: 5
+  pages: "e70071"
+  link:
+    url: "https://doi.org/10.1002/eap.70071"
+  highlight: 0
+
+- title: "Urbanization made rivers as important movement corridors for waterbird species, Black-headed Gulls"
+  year: 2025
+  authors: "<b>Takeshige, S.</b>, Sawa, Y., Katoh, K."
+  journal: "Canadian Journal of Fisheries and Aquatic Sciences"
+  volume: 21
+  issue: 3
+  pages: "567-575"
+  link:
+    url: "https://doi.org/10.1007/s11355-025-00658-5"
+  highlight: 0
+
 - title: "Addressing bycatch of depleted species through a marine conservation network in the Canadian Atlantic"
   year: 2025
   authors: "<b>Durant, M.</b>, Shackell, N. L., Keith, D., Tittensor, D. P., Worm, B."
   journal: "Canadian Journal of Fisheries and Aquatic Sciences"
-  volume: "82"
+  volume: 82
   link:
     url: "https://doi.org/10.1139/cjfas-2024-0301"
   highlight: 0
@@ -17,6 +50,17 @@
     url: "https://doi.org/10.1016/j.ecoenv.2025.118439"
   highlight: 0
 
+- title: "Japan Eco-Evo English Seminar (JEEES): A platform for international science exchange and professional development in Japan"
+  year: 2025
+  authors: "Fujioka, H., Mizumoto, N., <b>Kass, J. M.</b>"
+  journal: "Japanese Journal of Ecology"
+  volume: 75
+  issue: 1
+  pages: "119-126"
+  link:
+    url: "https://doi.org/10.18960/seitai.2402"
+  highlight: 0
+  
 - title: "Long-term human land-use change throughout Southeast Asia reshapes the distribution of suitable habitat for a human-commensal bird species"
   year: 2025
   authors: "Ramirez, B. R., <b>Kass, J. M.</b>, Zellmer, A. J., Hund, A. K., Scordato, E. S. C."
