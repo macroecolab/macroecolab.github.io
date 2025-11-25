@@ -195,12 +195,13 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 </div>
 {% endif %}
 
-### Former Visiting Students
-<p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, March 2025 - May 2025</p>
+### Former Visiting Lab Members
+<p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025- Oct 2025</p>
+<p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, Mar 2025 - May 2025</p>
 <p>Kevin López-Reyes, UNAM, Mexico, PhD 3rd year, Jul 2024 - Dec 2024</p>
 <p>William Leighton Petty, Baylor University, USA, Undergrad, JYPE Program, Sep 2023 - Aug 2024</p>
-<p>Erick Sanchez, University of California, USA, San Diego, JYPE Program, Apr 2024 - Aug 2024</p>
-<p>Anson Choi, University of California, San Diego, USA, JYPE Program, Apr 2024 - Aug 2024</p>
+<p>Erick Sanchez, University of California, San Diego, USA, Undergrad, JYPE Program, Apr 2024 - Aug 2024</p>
+<p>Anson Choi, University of California, San Diego, USA, Undergrad, JYPE Program, Apr 2024 - Aug 2024</p>
 
 ## Administrative Support
 Motoko Fujishima (motoko.fujishima.b3 (at) tohoku.ac.jp) is our essential administrative assistant.

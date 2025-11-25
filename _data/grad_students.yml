@@ -36,7 +36,7 @@
   email:
   education1: BS Biology, Tohoku University
   focus: Ecology and evolution of monkeys
-  research: Biogeography and phylogenetic patterns of the genus Macaca
+  research: Biogeography and phylogenetic patterns of the genus <i>Macaca</i>
   
 - name: Ruiqi Zhang
   photo: zhang.jpg
@@ -59,8 +59,8 @@
   info: M1
   email:
   education1: BS Life Sciences, Chuo University, 2024
-  focus: Species reintroductions
-  research: 
+  focus: Conservation ecology
+  research: Population Distribution Projections Based on Mechanistic Models of Japanese Rock Ptarmigan Temperature Responses
   
 - name: Yi Shen
   photo: shen.jpg

@@ -1,13 +1,36 @@
-- title: "Differences in predictions of marine species distribution models based on expert maps and opportunistic occurrences"
+- title: "When Raptors Are Away, Opossums Will Play: Woolly Opossums as Carrion Feeders in Harpy Eagle Nests"
   year: 2025
-  authors: "Zhang, Z., <b>Kass, J. M.</b>, Bede-Fazekas, Á., Mammola, S., Qu, J., Molinos, J. G., Gu, J., Huang, H., Qu, M., Yue, Y., Qin, G., Lin, Q."
-  journal: "Conservation Biology"
-  volume: 39
-  issue: 4
-  pages: "e70015"
-  link: 
-    url: "https://doi.org/10.1111/cobi.70015"
-  
+  authors: "Machado J. P. F., Semedo, T. B. F., <b>Miranda, E. B. P.</b>, Garbino, G. S. T."
+  journal: "Biotropica"
+  volume: 57
+  issue: 6
+  pages: "e70102"
+  link:
+    url: "https://doi.org/10.1111/btp.70102"
+  highlight: 0
+
+- title: "Not all xenarthrans are eaten equally: In savannas, harpy eagles favor armadillos, and their prey show taphonomic signatures similar to those in Amazonia"
+  year: 2025
+  authors: "Lemos, I., Paes, J. A. S. V., Machado J. P. F., Gonçalves, D. C., Peres, P. H. F., Freitas, J. L. S., Semedo, T. B. F., <b>Miranda, E. B. P.</b>, Garbino, G. S. T."
+  journal: "Food Webs"
+  volume: 44
+  issue: 
+  pages: "e00420"
+  link:
+    url: "https://doi.org/10.1016/j.fooweb.2025.e00420"
+  highlight: 0
+
+- title: "They are among us: issues and perspectives on urban anacondas (Boidae: <i>Eunectes</i>)"
+  year: 2025
+  authors: "Camera, B. F., Prudente, A. L. C., Strüssmann, C., <b>Miranda, E. B. P.</b>"
+  journal: "Studies on Neotropical Fauna and Environment"
+  early: 1
+  volume: 
+  issue: 
+  pages:
+  link:
+    url: "https://doi.org/10.1080/01650521.2025.2494524"
+  highlight: 0
 
 - title: "Forecasting alien species establishment and source regions: Quantitative assessment of potential ant invasions in Japan"
   year: 2025
@@ -49,6 +72,16 @@
   link:
     url: "https://doi.org/10.1016/j.ecoenv.2025.118439"
   highlight: 0
+  
+- title: "Unveiling the Myth: Harpy Eagle Harpia harpyja Attacks on a Human in the Amazon Forest"
+  year: 2025
+  authors: "Epelboin, L., Mutricy, M., Pelletier, V., Fremery, A., Dechelle, M., Ottema, O., Pfefer, S., Sinasac, J., Uriot, S., Claessens, O., <b>Miranda, E. B. P.</b>"
+  journal: "Ecology and Evolution"
+  volume: 15
+  issue: 4
+  pages: "e71266"
+  link: 
+    url: "https://doi.org/10.1002/ece3.71266"
 
 - title: "Japan Eco-Evo English Seminar (JEEES): A platform for international science exchange and professional development in Japan"
   year: 2025
