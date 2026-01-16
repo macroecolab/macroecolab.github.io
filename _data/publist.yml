@@ -1,3 +1,70 @@
+- title: "BON in a Box: An Open and Collaborative Platform for Biodiversity Monitoring, Indicator Calculation, and Reporting"
+  year: 2025
+  authors: "Griffith, J., Lord, J-M, Catchen, M., Arce-Plata, M. I.; Blanchet, F. G., Chandramohan, M., Diaz-Corzo, M. C., Gravel, D., Gutiérrez Montoya, C., Helfenstein, I., Hoban, S., <b>Kass, J. M.</b>, Laikre, L., Larocque, G., Leigh, D. M., Leung, B., Millette, K., Mastretta-Yanes, A., Molina, B., Nguyen, D., Norman, K., Olaya Rodríguez, M. H., Pahls, S., Pereira, K., Peres-Neto, P., Poisot, T., Pollock, L., Rey-Velasco, J. C.; Rincon-Parra, V., Rousseu, F., Sánchez-Clavijo, L. M.; Schuman, M., Selmoni, O., da Silva, J., Suárez-Valencia, E., Surasinghe, T., Turak, E., Urbina, L. F., Valentin, S.; Wightman, N., Zuloaga, J., Londono Murcia, M. C., Gonzalez, A."
+  journal: "BioScience"
+  volume: 76
+  issue: 1
+  pages: "blaf189"
+  link:
+    url: "https://doi.org/10.1093/biosci/biaf189"
+  highlight: 0
+
+- title: "【Symposium mini review】Addressing Knowledge Shortfalls for Marine Biogeography with eDNA and Species Distribution Models"
+  year: 2025
+  authors: "<b>Kass, J. M.</b>"
+  journal: "Journal of Integrated Field Science"
+  volume: 22
+  issue: 
+  pages: "26-28"
+  link:
+    url: "https://doi.org/10.50974/0002006747"
+  highlight: 0
+
+- title: "Historical biogeography and climatic niche dynamics in spiny lizards of the genus Sceloporus (Squamata: Phrynosomatidae)"
+  year: 2025
+  authors: "López-Reyes, K., <b>Kass, J. M.</b>, Yáñez-Arenas, C., Villalobos, F."
+  journal: "Biological Journal of the Linnean Society"
+  volume: 146
+  issue: 3
+  pages: "blaf117"
+  link:
+    url: "https://doi.org/10.1093/biolinnean/blaf117"
+  highlight: 0
+
+- title: "Pathways to an integrated understanding of marine environments and ecosystems in the Asia-Pacific Region"
+  year: 2025
+  authors: "Adiwira, H., Yasunaka, S., <b>Kass, J. M.</b>, Açıkbaş, A. H. O., Adiningsih, S., Gairin, E., Ilham, H. B. C., Lahcene, E., Li, Y., Nishihira, G., Peñalver-Pereira, P. Sie, F. M. P., Ames, C. L., Armitage, D., Brännström, Å., Dieckmann, U., Fujii, T., Husnik, F., Kawamiya, M., Masuda, T., Plessy, C., Sallan, L. Shimada, T., Smith, S. L., Strutton, P. G., Amedo-Repollo, C. L., Wirasatriya, A., Suga, T."
+  journal: "Frontiers in Marine Science"
+  volume: 12
+  issue: 6
+  pages: "1680145"
+  link:
+    url: "https://doi.org/10.3389/fmars.2025.1680145"
+  highlight: 0
+
+- title: "Integrating expert range maps and opportunistic occurrence records of marine fish species in range estimates"
+  year: 2025
+  authors: "Zhang, Z., Bede-Fazekas, Á., García Molinos, J., Mammola, S., <b>Kass, J. M.</b>, Qu, J., Oeser, J., Yuan, S., Zhang, C., Gu, J., Ding, L., Lin, Q."
+  journal: "Conservation Biology"
+  early: 1
+  volume:
+  issue:
+  pages: "e70154"
+  link:
+    url: "https://doi.org/10.1111/cobi.70154"
+  highlight: 0
+
+- title: "National-scale terrestrial biodiversity and ecosystem monitoring with essential biodiversity variables in Japan and Finland"
+  year: 2025
+  authors: "Takeuchi, Y., Végh, L., Noda, H., Böttcher, K., Vihervaara, P., <b>Kass, J. M.</b>, Hama, I., Saito, Y."
+  journal: "Ecological Research"
+  volume: 40
+  issue: 6
+  pages: "e70011"
+  link:
+    url: "https://doi.org/10.1111/1440-1703.70011"
+  highlight: 0
+
 - title: "When Raptors Are Away, Opossums Will Play: Woolly Opossums as Carrion Feeders in Harpy Eagle Nests"
   year: 2025
   authors: "Machado J. P. F., Semedo, T. B. F., <b>Miranda, E. B. P.</b>, Garbino, G. S. T."
@@ -30,6 +97,17 @@
   pages:
   link:
     url: "https://doi.org/10.1080/01650521.2025.2494524"
+  highlight: 0
+
+- title: "Uncertainty in Ecological Models"
+  year: 2025
+  authors: "Warren, D. L., Baumbach, L., <b>Kass, J. M.</b>, Voskamp, A"
+  journal: "Mearns, L.O., Forest, C.E., Fowler, H.J., Lempert, R., Wilby, R.L. (eds) Uncertainty in Climate Change Research. Springer"
+  volume: 
+  issue: 
+  pages: "81-92"
+  link:
+    url: "https://doi.org/10.1007/978-3-031-85542-9_8"
   highlight: 0
 
 - title: "Forecasting alien species establishment and source regions: Quantitative assessment of potential ant invasions in Japan"

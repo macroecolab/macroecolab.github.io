@@ -8,7 +8,7 @@
 
 - name: Matthew Durant
   photo: matthew.png
-  info: M2
+  info: M2 (JEES scholarship student)
   email:
   education1: BS Marine Biology, Dalhousie University
   focus: Marine conservation climate change 
@@ -16,7 +16,7 @@
 
 - name: Megan Low
   photo: megan.png
-  info: M2
+  info: M2(ASEAN scholarship student)
   email:
   education1: BS, Hong Kong University
   focus: Functional diversity of pollinating insects
@@ -32,7 +32,7 @@
   
 - name: Taro Takane
   photo: takane.jpg
-  info: M2
+  info: M2 (Hayashi rheology scholorship student)
   email:
   education1: BS Biology, Tohoku University
   focus: Ecology and evolution of monkeys
@@ -64,7 +64,7 @@
   
 - name: Yi Shen
   photo: shen.jpg
-  info: M1
+  info: M1 (Graduate Program in Data Science student)
   email:
   education1: BS Environmental Science, Capital Normal University, 2024
   focus: Remote sensing

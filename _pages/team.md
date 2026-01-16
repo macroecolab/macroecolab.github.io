@@ -196,6 +196,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 ### Former Visiting Lab Members
+<p>Zhihui Chen, Sun Yat-sen University, China, PhD 2nd year, Jan 2025 - Dec 2025</p>
 <p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025- Oct 2025</p>
 <p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, Mar 2025 - May 2025</p>
 <p>Kevin López-Reyes, UNAM, Mexico, PhD 3rd year, Jul 2024 - Dec 2024</p>
