@@ -4,35 +4,54 @@ layout: default
 
 <style>
   .container {
-  display: flex;
-  align-items: left;
-  justify-content: left
-  
-  
-img {
-  max-width: 100%;
-  max-height:100%;
-}
+    display: flex;
+    align-items: center;
+    /* Changed from left for better vertical alignment */
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    /* Ensure it wraps on mobile */
+  }
 
-.text {
-  font-size: 35px;
-  padding-left: 0px;
-}
+  @media (max-width: 767px) {
+    .container {
+      justify-content: center;
+      text-align: center;
+    }
+  }
+
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .text {
+    font-size: 35px;
+    padding-left: 0px;
+    margin-right: 20px;
+  }
+
+  @media (max-width: 767px) {
+    .text {
+      font-size: 24px;
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
 </style>
 
-  <div id="homeid" class="col-sm-8">
-    <div class="container">
-      <div class="text">
-        <p>Welcome to the Macroecology Lab</p>
-        <p>マクロ生態分野へようこそ</p>
-      </div>
-      <div class="image">
-        <img src="images/logopic/macroecolab_logo.png" style="width: 150px">
-      </div>
+<div id="homeid" class="col-sm-8">
+  <div class="container">
+    <div class="text">
+      <p>Welcome to the Macroecology Lab</p>
+      <p>マクロ生態分野へようこそ</p>
     </div>
+    <div class="image">
+      <img src="images/logopic/macroecolab_logo.png" style="width: 150px">
+    </div>
+  </div>
 
-	{{ content }}
-  </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
-  </div>
+  {{ content }}
+</div>
+<div id="newsid" class="col-sm-4">
+  {% include news.html %}
+</div>
