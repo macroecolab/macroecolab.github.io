@@ -1,7 +1,4 @@
----
----
-
-@import "bootstrap";
+--- --- @import "bootstrap";
 
 @media (max-width: 767px) {
   .navbar-brand {
@@ -29,7 +26,8 @@
     align-items: center !important;
     gap: 30px !important;
   }
-  .grid-container > div {
+
+  .grid-container>div {
     width: 100% !important;
     text-align: center !important;
   }
@@ -98,7 +96,7 @@ pubtit {
 
 #picid img {
   margin: 6px 3px 60px 6px;
-  border-radius: 1%;
+  border-radius: 5%;
   box-shadow: 2px 2px 5px #888888;
 }
 
@@ -106,7 +104,17 @@ pubtit {
   margin-bottom: 24px;
 }
 
-.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12 {
   padding-left: 16px;
   padding-right: 16px;
 }

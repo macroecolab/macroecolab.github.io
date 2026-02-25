@@ -1,6 +1,6 @@
 ---
 title: "Macroecology Lab - Photos"
-layout: textlay
+layout: piclay
 excerpt: "Macroecology Lab - Photos"
 permalink: /pictures/
 ---
