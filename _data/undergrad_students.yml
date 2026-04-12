@@ -6,25 +6,9 @@
   focus: Climate change and biodiversity
   research: How will climate change effect Japanese deer distribution?
   
-- name: Tomoyo Kobayashi
-  photo: kobayashi.jpg
-  info: B4
-  email:
-  education1: 
-  focus: Conservation of marine mammals
-  research: Biogeography of orcas
-  
-- name: Yusuke Sawada
-  photo: sawada.jpg
-  info: B4
-  email:
-  education1: 
-  focus: Soil ecology
-  research: Community structure of soil mites in urban environments
-  
 - name: Koki Nomura
   photo: nomura.jpg
-  info: B3
+  info: B4
   email:
   education1:
   focus: Bee ecology
@@ -32,7 +16,7 @@
   
 - name: Yusuke Nito
   photo: nito.jpg
-  info: B3
+  info: B4
   email: 
   education1:
   focus: Dispersion, Community structure
@@ -40,6 +24,12 @@
 
 - name: Haruto Maruyama
   photo: maruyama.jpg
-  info: B3
+  info: B4
   email:
   education1:
+
+- name: Sein Park
+  photo: no_photo.png
+  info: B4
+  email:
+  education1:  

@@ -195,7 +195,8 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 </div>
 {% endif %}
 
-### Former Visiting Lab Members
+### Former Lab Members
+<p>Jotaro Urabe, Honorary Professor (retired)</p>
 <p>Zhihui Chen, Sun Yat-sen University, China, PhD 2nd year, Jan 2025 - Dec 2025</p>
 <p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025- Oct 2025</p>
 <p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, Mar 2025 - May 2025</p>

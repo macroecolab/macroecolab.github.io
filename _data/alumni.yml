@@ -1,3 +1,27 @@
+- name: Hiromichi Suzuki
+  photo: suzuki.jpg
+  info: D2 (JSPS research fellow)
+  email:
+  education1: MS Biology, Tohoku University, 2023
+  focus: Limnology and ecology of zooplankton 
+  research: Determinants of zooplankton community structure and dynamics using field studies, experiments, and data analysis
+
+- name: Ryo Nishida
+  photo: nishida.jpg
+  info: M2
+  email:
+  education1: BS, Doshisha University, 2023
+  focus: Impacts of human activity on biodiversity
+  research: Relationships between traditional land use practices and species' distributions
+
+- name: Ruiqi Zhang
+  photo: zhang.jpg
+  info: M2
+  email:
+  education1: BS Biology, Niigata University, 2023
+  focus: Plant biogeography
+  research: Biogeography of color morphs for the spotted bellflower (ホタルブクロ)
+
 - name: So Kaneko
   photo: kaneko.png
   info: B4

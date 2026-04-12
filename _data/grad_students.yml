@@ -1,14 +1,6 @@
-- name: Hiromichi Suzuki
-  photo: suzuki.jpg
-  info: D2 (JSPS research fellow)
-  email:
-  education1: MS Biology, Tohoku University, 2023
-  focus: Limnology and ecology of zooplankton 
-  research: Determinants of zooplankton community structure and dynamics using field studies, experiments, and data analysis
-
 - name: Matthew Durant
   photo: matthew.png
-  info: M2 (JEES scholarship student)
+  info: D1 (JEES scholarship student)
   email:
   education1: BS Marine Biology, Dalhousie University
   focus: Marine conservation climate change 
@@ -16,39 +8,23 @@
 
 - name: Megan Low
   photo: megan.png
-  info: M2(ASEAN scholarship student)
+  info: D1(ASEAN scholarship student)
   email:
   education1: BS, Hong Kong University
   focus: Functional diversity of pollinating insects
   research: Predicting and mapping pollinator diversity and pollination service potential
 
-- name: Ryo Nishida
-  photo: nishida.jpg
-  info: M2
-  email:
-  education1: BS, Doshisha University, 2023
-  focus: Impacts of human activity on biodiversity
-  research: Relationships between traditional land use practices and species' distributions
-  
 - name: Taro Takane
   photo: takane.jpg
-  info: M2 (Hayashi rheology scholorship student)
+  info: D1 (Hayashi rheology scholorship student)
   email:
   education1: BS Biology, Tohoku University
   focus: Ecology and evolution of monkeys
   research: Biogeography and phylogenetic patterns of the genus <i>Macaca</i>
   
-- name: Ruiqi Zhang
-  photo: zhang.jpg
-  info: M2
-  email:
-  education1: BS Biology, Niigata University, 2023
-  focus: Plant biogeography
-  research: Biogeography of color morphs for the spotted bellflower (ホタルブクロ)
-  
-- name: Akari Sarishi
+- name: Akari Sarishi (Suzuki)
   photo: sarishi.png
-  info: M1
+  info: M2
   email:
   education1: BS Agriculture, Tohoku University, 2024
   focus: Plankton ecology
@@ -56,7 +32,7 @@
 
 - name: Tsumugi Watanabe
   photo: watanabe.jpg
-  info: M1
+  info: M2
   email:
   education1: BS Life Sciences, Chuo University, 2024
   focus: Conservation ecology
@@ -64,8 +40,49 @@
   
 - name: Yi Shen
   photo: shen.jpg
-  info: M1 (Graduate Program in Data Science student)
+  info: M2 (Graduate Program in Data Science student)
   email:
   education1: BS Environmental Science, Capital Normal University, 2024
   focus: Remote sensing
   research: Phenological Synchronization between Migratory Birds and Vegetation Green-Up
+
+- name: Janik
+  photo: no_photo.png
+  info: Visiting M2 (Netherlands)
+  email:
+  education1: 
+  focus: 
+  research: 
+
+- name: Luka 
+  photo: no_photo.png
+  info: Visiting M2 (France)
+  email:
+  education1: 
+  focus: 
+  research: 
+
+- name: XINTONG JIANG
+  photo: jiang.jpg
+  info: Research Student (China)
+  email:
+  education1: 
+  focus: Pangolin protection
+  research: What impact does urbanization causing habitat fragmentation have on the connectivity of pangolin populations
+
+- name: Tomoyo Kobayashi
+  photo: kobayashi.jpg
+  info: Research Student
+  email:
+  education1: 
+  focus: Conservation of marine mammals
+  research: Biogeography of orcas
+  
+- name: Yusuke Sawada
+  photo: sawada.jpg
+  info: M1
+  email:
+  education1: 
+  focus: Soil ecology
+  research: Community structure of soil mites in urban environments
+  
