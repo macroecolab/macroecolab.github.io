@@ -14,7 +14,7 @@ To get to our lab, take the subway from Sendai Station to Aoba-dori Ichibancho (
 
 ### Our mailing address
 
-Macroecology Lab, Tohoku University Katahira Campus Global Connect Hub 5F, Katahira 2-1-1, Aoba, Sendai, Miyagi, JAPAN 980-8577
+Macroecology Lab, Tohoku University Katahira Campus, Global Connect Hub 5F, Katahira 2-1-1, Aoba, Sendai, Miyagi, JAPAN 980-8577
 
 〒980-8577 仙台市青葉区片平二丁目１－１ 電気通信研究所 Global Connect Hub棟 東北大学 マクロ生態分野（生命科学研究科）
 
