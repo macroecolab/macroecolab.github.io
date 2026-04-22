@@ -106,6 +106,36 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 
+## Research Assistants
+{% assign number_printed = 0 %}
+{% for member in site.data.research_assistants %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i> <br><i>Focus</i>: {{ member.focus }} <br> <i>Research</i>: {{member.research}}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 ## Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visiting_students %}
@@ -196,7 +226,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 ### Former Lab Members
-<p>Jotaro Urabe, Honorary Professor (retired)</p>
+<p>Jotaro Urabe, Honorary Professor, 2023-2025 (retired)</p>
 <p>Zhihui Chen, Sun Yat-sen University, China, PhD 2nd year, Jan 2025 - Dec 2025</p>
 <p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025- Oct 2025</p>
 <p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, Mar 2025 - May 2025</p>

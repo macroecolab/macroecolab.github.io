@@ -1,14 +1,6 @@
-- name: Matthew Durant
-  photo: matthew.png
-  info: D1 (JEES scholarship student)
-  email:
-  education1: BS Marine Biology, Dalhousie University
-  focus: Marine conservation climate change 
-  research: Ecology and conservation of Pacific sharks and rays, potential benefits of marine protected areas
-
 - name: Megan Low
   photo: megan.png
-  info: D1(ASEAN scholarship student)
+  info: D1 (Graduate Program in Data Science student)
   email:
   education1: BS, Hong Kong University
   focus: Functional diversity of pollinating insects
@@ -36,7 +28,7 @@
   email:
   education1: BS Life Sciences, Chuo University, 2024
   focus: Conservation ecology
-  research: Population Distribution Projections Based on Mechanistic Models of Japanese Rock Ptarmigan Temperature Responses
+  research: Population distribution projections based on mechanistic models of Japanese Rock Ptarmigan temperature responses
   
 - name: Yi Shen
   photo: shen.jpg
@@ -44,7 +36,7 @@
   email:
   education1: BS Environmental Science, Capital Normal University, 2024
   focus: Remote sensing
-  research: Phenological Synchronization between Migratory Birds and Vegetation Green-Up
+  research: Phenological synchronization between migratory birds and vegetation green-Up
 
 - name: Yusuke Sawada
   photo: sawada.jpg
@@ -54,13 +46,13 @@
   focus: Soil ecology
   research: Community structure of soil mites in urban environments
 
-- name: XINTONG JIANG
+- name: Xintong Jiang
   photo: jiang.jpg
   info: Research Student (China)
   email:
   education1: 
   focus: Pangolin protection
-  research: What impact does urbanization causing habitat fragmentation have on the connectivity of pangolin populations
+  research: Impact of urbanization-induced habitat fragmentation on pangolin population connectivity
 
 - name: Tomoyo Kobayashi
   photo: kobayashi.jpg
