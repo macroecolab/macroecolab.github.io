@@ -76,9 +76,9 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 
-## Graduate Students
+## Research Assistant
 {% assign number_printed = 0 %}
-{% for member in site.data.grad_students %}
+{% for member in site.data.research_assistants %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -106,9 +106,9 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 
-## Research Assistant
+## Graduate Students
 {% assign number_printed = 0 %}
-{% for member in site.data.research_assistants %}
+{% for member in site.data.grad_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
