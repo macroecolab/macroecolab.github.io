@@ -149,8 +149,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 <div class="col-sm-6 clearfix">
   <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i> <br><i>Focus</i>: {{ member.focus }} <br> <i>Research</i>: {{member.research}} <br>
-  <i>Education</i>: {{ member.education1 }}
+  <i>{{ member.info }}</i> <br><i>Focus</i>: {{ member.focus }} <br> <i>Research</i>: {{member.research}} 
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
