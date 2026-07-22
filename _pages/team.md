@@ -194,9 +194,10 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 ### Former Lab Members
+<p>Luca Pineau, University of Lille, France, M1, Apr 2026 - June 2026</p>
 <p>Jotaro Urabe, Honorary Professor, 2023-2025 (retired)</p>
 <p>Zhihui Chen, Sun Yat-sen University, China, PhD 2nd year, Jan 2025 - Dec 2025</p>
-<p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025- Oct 2025</p>
+<p>Mohamed Shebl, Suez Canal University, Ismailia, Egypt, Egypt-Japan Education Partnership Research Fellow, Apr 2025 - Oct 2025</p>
 <p>Felipe Pereira da Rocha, Hong Kong University, China, PhD 3rd year, Mar 2025 - May 2025</p>
 <p>Kevin López-Reyes, UNAM, Mexico, PhD 3rd year, Jul 2024 - Dec 2024</p>
 <p>William Leighton Petty, Baylor University, USA, Undergrad, JYPE Program, Sep 2023 - Aug 2024</p>

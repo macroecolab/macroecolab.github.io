@@ -6,10 +6,26 @@
   focus: 
   research: 
 
-- name: Luca Pineau
-  photo: luca.jpg
-  info: Visiting M1 (France)
+- name: Waylon
+  photo: no_photo.png
+  info: Visiting Student
   email:
-  education1: M1 in Evolutionary Biology, University of Lille, France. Bachelor in Biology, with a minor in environmental science, Université Clermont-Auvergne (UCA), France
-  focus: Population ecology, modeling, monitoring and conservation
-  research: Interspecific interactions among sympatric carnivores shaping their occupancy and temporal activity patterns across Japan
+  education1: 
+  focus: 
+  research: 
+
+- name: Zachary Meyers
+  photo: zach.jpg
+  info: 4th Year Undergraduate Research Student
+  email:
+  education1: 
+  focus: Species distribution modeling
+  research: Invasive *Aedes aegypti* prediction models
+
+- name: Jiayi Zoey
+  photo: no_photo.png
+  info: Visiting Student
+  email:
+  education1: 
+  focus: 
+  research: 
