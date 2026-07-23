@@ -6,26 +6,26 @@
   focus: 
   research: 
 
-- name: Waylon
-  photo: no_photo.png
-  info: Visiting Student
+- name: Tianze Xie
+  photo: waylon.jpg
+  info: Rising Senior (UC Davis)
   email:
   education1: 
-  focus: 
-  research: 
+  focus: Biostatistics, species distribution model
+  research: Building ecological niche model for Western Flower Thrips
 
 - name: Zachary Meyers
   photo: zach.jpg
-  info: 4th Year Undergraduate Research Student
+  info: 4th Year Undergraduate Research Student (UC Davis)
   email:
   education1: 
   focus: Species distribution modeling
   research: Invasive *Aedes aegypti* prediction models
 
-- name: Jiayi Zoey
-  photo: no_photo.png
-  info: Visiting Student
+- name: Jiayi Zhang
+  photo: zoey.jpg
+  info: Rising Senior (UC Davis)
   email:
   education1: 
-  focus: 
-  research: 
+  focus: Statistics modeling
+  research: Ecological niche model of Burmese Python
