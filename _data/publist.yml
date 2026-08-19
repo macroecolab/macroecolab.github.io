@@ -1,3 +1,25 @@
+- title: "Extrapolation strategy matters when transferring ecological niche models: new visualization tools for informed decisions"
+  year: 2026
+  authors: "Pinilla‐Buitrago, G. E., <b>Kass, J. M.</b>, Anderson, R. P." 
+  journal: "Ecography"
+  volume: 
+  issue: 
+  pages: "e08590"
+  link:
+    url: "https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08590"
+  highlight: 0
+
+- title: "Incorporating sampling bias into ENM/SDM permutation tests: new methods and a case study on neotropical ants"
+  year: 2026
+  authors: "Warren, D. L., Cassadei‐Ferreira, A., Economo, E. P., Dinnage, R., <b>Kass, J. M.</b>"
+  journal: "Ecography"
+  volume: 
+  issue: 
+  pages: "e08559"
+  link:
+    url: "https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08559"
+  highlight: 0
+
 - title: "Phylogenetic Diversity and Dispersion of Ants Worldwide: Geographic Variation and Climatic Correlates"
   year: 2026
   authors: "Qian, H., Wang, R., Kessler, M., Qian, S., <b>Kass, J. M.</b>, Economo, E. P., Guénard, B."
@@ -11,7 +33,7 @@
 
 - title: "Multiple imputation step-selection analysis: Improving estimation accuracy of travel distance accounting for route uncertainty"
   year: 2026
-  authors: "<b>Takeshige, S.</b>, & Ohkubo, Y."
+  authors: "<b>Takeshige, S.</b>, <b>Kass, J. M.</b>, Yajima, G., Ohkubo, Y."
   journal: "bioRxiv"
   volume: 
   issue: 
