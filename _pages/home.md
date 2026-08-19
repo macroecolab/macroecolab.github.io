@@ -1,5 +1,5 @@
 ---
-title: "Macroecology Lab @ Tohoku University"
+title: "Macroecology Lab @ Tohoku University / 東北大学マクロ生態分野"
 layout: homelay
 excerpt: 
 sitemap: false
