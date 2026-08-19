@@ -105,6 +105,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 
+<!-- 
 ## Visiting Students
 {% assign number_printed = 0 %}
 {% for member in site.data.visiting_students %}
@@ -133,6 +134,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+-->
 
 ## Undergraduate Students
 {% assign number_printed = 0 %}
@@ -194,6 +196,11 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 {% endif %}
 
 ### Former Lab Members
+<p>Zachary Meyers (Zach), UC Davis, 4th Year Undergraduate Research Student (T-SRIP), Jul 2026 - Aug 2026</p>
+<p>Jiayi Zhang (Zoey), UC Davis, 4th Year Undergraduate Research Student (T-SRIP), Jul 2026 - Aug 2026</p>
+<p>Tianze Xie (Waylon), UC Davis, 4th Year Undergraduate Research Student (T-SRIP), Jul 2026 - Aug 2026</p> 
+<p>Janik Sillen, Netherlands, Visiting M2, Mar 2026 - Aug 2026</p>
+<p>Motoko Fujishima, Administrative Assistant</p>
 <p>Luca Pineau, University of Lille, France, M1, Apr 2026 - June 2026</p>
 <p>Jotaro Urabe, Honorary Professor, 2023-2025 (retired)</p>
 <p>Zhihui Chen, Sun Yat-sen University, China, PhD 2nd year, Jan 2025 - Dec 2025</p>
@@ -205,4 +212,4 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 <p>Anson Choi, University of California, San Diego, USA, Undergrad, JYPE Program, Apr 2024 - Aug 2024</p>
 
 ## Administrative Support
-Motoko Fujishima (motoko.fujishima.b3 (at) tohoku.ac.jp) is our essential administrative assistant.
+Yuko Suzuki (yuko.suzuki.c6 (at) tohoku.ac.jp) is our essential administrative assistant.
