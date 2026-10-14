@@ -8238,12 +8238,61 @@ pubtit {
   max-width: 1000px;
 }
 
-#newsid p {
-  text-align: left;
-}
-
 #homeidtmp h1 {
   text-align: center;
+}
+
+#newsid {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+#newsid .well {
+  margin-bottom: 0;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 20px;
+}
+
+#newsid h4 {
+  margin: 0;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+#newsid .news-items {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1 1 auto;
+  min-width: 0;
+  max-height: 4.8em;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 4px 0;
+}
+
+#newsid .news-item {
+  text-align: left;
+  white-space: normal;
+  word-break: break-word;
+}
+
+#newsid .news-item p {
+  display: inline;
+  margin: 0;
+}
+
+#newsid .news-more {
+  flex-shrink: 0;
+  margin: 0;
+  white-space: nowrap;
 }
 
 #newsid img {

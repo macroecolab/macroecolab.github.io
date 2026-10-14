@@ -96,7 +96,7 @@
   }
 </style>
 
-<div id="homeid" class="col-sm-8">
+<div id="homeid" class="col-sm-12">
   <div class="container">
     <div class="text">
       <p>Welcome to the Macroecology Lab</p>
@@ -172,34 +172,43 @@
 <p>当研究室では主に、生物地理学、生態学的モデリング、保全、生態系サービスを中心とした研究が行われており、多様な研究者と学生の<a href="team">チーム</a>が生態学的モデリングやマッピングに熱心に取り組んでいます。<strong>興味のある方は、<a href="team">チームページ</a>をご覧ください。</strong></p>
 
 </div>
-<div id="newsid" class="col-sm-4">
+<div id="newsid">
   
 <div class="well">
 <h4>News</h4>
 
+<div class="news-items">
 
-<p>July 20, 2026<br></p>
-<p>Kass publishes <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08590">paper</a> in Ecography about extrapolation in ecological niche models</p>
+<div class="news-item">July 20, 2026: <p>Kass publishes <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08590">paper</a> in Ecography about extrapolation in ecological niche models</p>
+</div>
 
+<div class="news-item">July 14-15, 2026: <p>Kass, Nomura, and Nito joined GLOBAL NATURE POSITIVE SUMMIT 2026 in Kumamoto, Japan.</p>
+</div>
 
-<p>July 14-15, 2026<br></p>
-<p>Kass, Nomura, and Nito joined GLOBAL NATURE POSITIVE SUMMIT 2026 in Kumamoto, Japan.</p>
+<div class="news-item">July 1, 2026: <p>Welcome to our new visiting students (Waylon, Zach, and Zoey)!</p>
+</div>
 
+<div class="news-item">June 16, 2026: <p>Kass publishes <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08559">paper</a> in Ecograpy about incorporating sampling bias into ENM/SDM permutaton tests</p>
+</div>
 
-<p>July 1, 2026<br></p>
-<p>Welcome to our new visiting students (Waylon, Zach, and Zoey)!</p>
+</div>
 
-
-<p>June 16, 2026<br></p>
-<p>Kass publishes <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/ecog.08559">paper</a> in Ecograpy about incorporating sampling bias into ENM/SDM permutaton tests</p>
-
-
-
-<h4><a href="/allnews.html">... see all News</a></h4>
+<h4 class="news-more"><a href="/allnews.html">... see all News</a></h4>
 
     </div>
 
 </div>
+
+<script>
+  function adjustNewsBarSpacing() {
+    var newsBar = document.getElementById('newsid');
+    if (newsBar) {
+      document.body.style.paddingBottom = newsBar.offsetHeight + 'px';
+    }
+  }
+  window.addEventListener('load', adjustNewsBarSpacing);
+  window.addEventListener('resize', adjustNewsBarSpacing);
+</script>
       </div>
     </div>
 
