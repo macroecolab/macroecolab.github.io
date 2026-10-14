@@ -72,12 +72,61 @@ pubtit {
   max-width: 1000px;
 }
 
-#newsid p {
-  text-align: left;
-}
-
 #homeidtmp h1 {
   text-align: center;
+}
+
+#newsid {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1030; // navbar-fixed-topと同等
+}
+
+#newsid .well {
+  margin-bottom: 0;
+  border-radius: 0;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 20px;
+}
+
+#newsid h4 {
+  margin: 0;
+  flex-shrink: 0; // 左端「News」ラベルは常に全表示、縮まない
+  white-space: nowrap;
+}
+
+#newsid .news-items {
+  display: flex;
+  flex-direction: column; // 記事を縦に積む → 横スクロールが発生しない
+  gap: 4px;
+  flex: 1 1 auto;
+  min-width: 0; // これがないとflex子要素はoverflowしてくれない
+  max-height: 4.8em; // 約3行分の高さで頭打ちにする
+  overflow-y: auto; // 収まらない分は縦スクロールのみ
+  overflow-x: hidden;
+  padding: 4px 0;
+}
+
+#newsid .news-item {
+  text-align: left;
+  white-space: normal; // 幅に収まらない項目は折り返す（横スクロールさせない）
+  word-break: break-word;
+}
+
+#newsid .news-item p {
+  display: inline; // markdownifyが挿入するpタグの余白をなくし1行に収める
+  margin: 0;
+}
+
+#newsid .news-more {
+  flex-shrink: 0; // 右端「see all News」リンクも常に全表示
+  margin: 0;
+  white-space: nowrap;
 }
 
 #newsid img {
