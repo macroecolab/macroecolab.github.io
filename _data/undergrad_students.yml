@@ -27,9 +27,37 @@
   info: B4
   email:
   education1:
+  focus:
+  resaerch:
 
-- name: Sein Park
-  photo: no_photo.png
-  info: B4
+- name: Eito Iwasaki
+  photo: iwasaki.jpg
+  info: B3
   email:
   education1:  
+  focus: 
+  resaerch:
+
+- name: Kawasaki
+  photo: no_photo.png
+  info: B3
+  email:
+  education1:
+  focus:
+  resaerch:
+
+- name: Miyata
+  photo: no_photo.png
+  info: B3
+  email:
+  education1:
+  focus:
+  resaerch:
+  
+- name: Nishizawa
+  photo: no_photo.png
+  info: B3
+  email:
+  education1:
+  focus:
+  resaerch:

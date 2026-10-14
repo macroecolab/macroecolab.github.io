@@ -165,6 +165,35 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [undergraduate
 </div>
 {% endif %}
 
+## Visiting Students
+{% assign number_printed = 0 %}
+{% for member in site.data.visiting_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i> <br><i>Focus</i>: {{ member.focus }} <br> <i>Research</i>: {{member.research}}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Lab Alumni
 
 {% assign number_printed = 0 %}

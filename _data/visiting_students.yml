@@ -1,0 +1,15 @@
+- name: Sandra
+  photo: sandra.jpg
+  info: Visiting Student from the University of Lisbon
+  email:
+  education1:
+  focus: Conservation Biology
+  research: 
+
+- name: Hsin-yu
+  photo: no_photo.png
+  info: 
+  email:
+  education1:
+  focus: 
+  research: 
