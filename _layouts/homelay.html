@@ -39,7 +39,7 @@ layout: default
   }
 </style>
 
-<div id="homeid" class="col-sm-8">
+<div id="homeid" class="col-sm-12">
   <div class="container">
     <div class="text">
       <p>Welcome to the Macroecology Lab</p>
@@ -52,6 +52,17 @@ layout: default
 
   {{ content }}
 </div>
-<div id="newsid" class="col-sm-4">
+<div id="newsid">
   {% include news.html %}
 </div>
+
+<script>
+  function adjustNewsBarSpacing() {
+    var newsBar = document.getElementById('newsid');
+    if (newsBar) {
+      document.body.style.paddingBottom = newsBar.offsetHeight + 'px';
+    }
+  }
+  window.addEventListener('load', adjustNewsBarSpacing);
+  window.addEventListener('resize', adjustNewsBarSpacing);
+</script>
