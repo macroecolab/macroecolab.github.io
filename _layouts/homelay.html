@@ -52,17 +52,6 @@ layout: default
 
   {{ content }}
 </div>
-<div id="newsid">
+<div id="newsid" class="col-sm-12">
   {% include news.html %}
 </div>
-
-<script>
-  function adjustNewsBarSpacing() {
-    var newsBar = document.getElementById('newsid');
-    if (newsBar) {
-      document.body.style.paddingBottom = newsBar.offsetHeight + 'px';
-    }
-  }
-  window.addEventListener('load', adjustNewsBarSpacing);
-  window.addEventListener('resize', adjustNewsBarSpacing);
-</script>
